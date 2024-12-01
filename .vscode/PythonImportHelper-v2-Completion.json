@@ -1,0 +1,2351 @@
+[
+    {
+        "label": "csv_editor_duo",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv_editor_duo",
+        "description": "csv_editor_duo",
+        "detail": "csv_editor_duo",
+        "documentation": {}
+    },
+    {
+        "label": "CSVEditorDuo",
+        "importPath": "csv_editor_duo",
+        "description": "csv_editor_duo",
+        "isExtraImport": true,
+        "detail": "csv_editor_duo",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Menu",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "scrolledtext",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "scrolledtext",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "tabulate",
+        "importPath": "tabulate",
+        "description": "tabulate",
+        "isExtraImport": true,
+        "detail": "tabulate",
+        "documentation": {}
+    },
+    {
+        "label": "tabulate",
+        "importPath": "tabulate",
+        "description": "tabulate",
+        "isExtraImport": true,
+        "detail": "tabulate",
+        "documentation": {}
+    },
+    {
+        "label": "tabulate",
+        "importPath": "tabulate",
+        "description": "tabulate",
+        "isExtraImport": true,
+        "detail": "tabulate",
+        "documentation": {}
+    },
+    {
+        "label": "tabulate",
+        "importPath": "tabulate",
+        "description": "tabulate",
+        "isExtraImport": true,
+        "detail": "tabulate",
+        "documentation": {}
+    },
+    {
+        "label": "strftime",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "CSVEditorSingle",
+        "importPath": "csv_editor_single",
+        "description": "csv_editor_single",
+        "isExtraImport": true,
+        "detail": "csv_editor_single",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "campos_deseados",
+        "importPath": "editar_excel",
+        "description": "editar_excel",
+        "isExtraImport": true,
+        "detail": "editar_excel",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "CSVEditorDuo",
+        "kind": 6,
+        "importPath": "csv_editor.csv_editor_duo",
+        "description": "csv_editor.csv_editor_duo",
+        "peekOfCode": "class CSVEditorDuo:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"CSV Column Selector\")\n        self.root.geometry(\"600x300\")\n        self.file_path1 = tk.StringVar()\n        self.file_path2 = tk.StringVar()\n        self.df1 = None\n        self.df2 = None\n        self.column_vars1 = {}",
+        "detail": "csv_editor.csv_editor_duo",
+        "documentation": {}
+    },
+    {
+        "label": "MainApp",
+        "kind": 6,
+        "importPath": "csv_editor.csv_editor_single",
+        "description": "csv_editor.csv_editor_single",
+        "peekOfCode": "class MainApp:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"Newtron Solutions\")\n        self.root.geometry(\"650x350\")\n        #self.root.configure(bg='#00a5b5') \n        self.create_widgets()\n    def create_widgets(self):\n        file_frame2 = ttk.Frame(self.root)\n        file_frame2.pack(padx=10, pady=35)",
+        "detail": "csv_editor.csv_editor_single",
+        "documentation": {}
+    },
+    {
+        "label": "CSVEditorSingle",
+        "kind": 6,
+        "importPath": "csv_editor.csv_editor_single",
+        "description": "csv_editor.csv_editor_single",
+        "peekOfCode": "class CSVEditorSingle:\n    def __init__(self, root, go_back_to_main):\n        self.root = root\n        self.go_back_to_main = go_back_to_main\n        self.root.title(\"CSV Column Selector\")\n        self.root.geometry(\"700x400\")\n        self.file_path = tk.StringVar()\n        self.df = None\n        self.column_vars = {}\n        self.setup_styles()",
+        "detail": "csv_editor.csv_editor_single",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "csv_editor.csv_editor_single",
+        "description": "csv_editor.csv_editor_single",
+        "peekOfCode": "def main():\n    root = tk.Tk()\n    app = MainApp(root)\n    root.mainloop()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "csv_editor.csv_editor_single",
+        "documentation": {}
+    },
+    {
+        "label": "MainApp",
+        "kind": 6,
+        "importPath": "csv_editor.main",
+        "description": "csv_editor.main",
+        "peekOfCode": "class MainApp:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"Main Application\")\n        self.root.geometry(\"400x200\")\n        self.create_widgets()\n    def create_widgets(self):\n        ttk.Label(self.root, text=\"Choose an Application\", font=(\"Helvetica\", 14)).pack(pady=20)\n        ttk.Button(self.root, text=\"CSV Editor - Single\", command=self.open_csv_editor_single).pack(pady=10)\n        ttk.Button(self.root, text=\"CSV Editor - Duo\", command=self.open_csv_editor_duo).pack(pady=10)",
+        "detail": "csv_editor.main",
+        "documentation": {}
+    },
+    {
+        "label": "procesar_csv",
+        "kind": 2,
+        "importPath": "source codes.carlos_terrasa_editor_csv",
+        "description": "source codes.carlos_terrasa_editor_csv",
+        "peekOfCode": "def procesar_csv(archivo_csv, campos_a_extraer):\n    \"\"\"\n    Lee un archivo CSV, selecciona los campos especificados y guarda un nuevo CSV.\n    Args:\n        archivo_csv (str): Ruta al archivo CSV de entrada.\n        campos_a_extraer (list): Lista de nombres de columnas a extraer.\n    \"\"\"\n    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')\n    try:\n        # Crear la ventana principal de Tkinter",
+        "detail": "source codes.carlos_terrasa_editor_csv",
+        "documentation": {}
+    },
+    {
+        "label": "select_file",
+        "kind": 2,
+        "importPath": "source codes.carlos_terrasa_editor_csv",
+        "description": "source codes.carlos_terrasa_editor_csv",
+        "peekOfCode": "def select_file():\n    file_path = filedialog.askopenfilename()\n    if file_path:\n        path_label.config(text=file_path)\ndef submit_file():\n    file_path = path_label.cget(\"text\")\n    if file_path:\n        # Here you can add the code to process the file\n        procesar_csv(file_path,\n        [",
+        "detail": "source codes.carlos_terrasa_editor_csv",
+        "documentation": {}
+    },
+    {
+        "label": "submit_file",
+        "kind": 2,
+        "importPath": "source codes.carlos_terrasa_editor_csv",
+        "description": "source codes.carlos_terrasa_editor_csv",
+        "peekOfCode": "def submit_file():\n    file_path = path_label.cget(\"text\")\n    if file_path:\n        # Here you can add the code to process the file\n        procesar_csv(file_path,\n        [\n             \"Last Name\",\t\n              \"First Name\",\t\n              \"EID\",\n              \"Day\",\t",
+        "detail": "source codes.carlos_terrasa_editor_csv",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": "source codes.carlos_terrasa_editor_csv",
+        "description": "source codes.carlos_terrasa_editor_csv",
+        "peekOfCode": "window = Tk()\nwindow.geometry(\"500x500\")\nwindow.title(\"CSV EDITOR\")\nwindow.config(background=\"white\")\n# LABEL PRINCIPAL (LOGO)\nlabel_principal = Label(window,\ntext=\"Newtron's CSV Editor\",\nfont=('Ink Free', 20, 'bold'),\nfg='black',\nbg='white',",
+        "detail": "source codes.carlos_terrasa_editor_csv",
+        "documentation": {}
+    },
+    {
+        "label": "label_principal",
+        "kind": 5,
+        "importPath": "source codes.carlos_terrasa_editor_csv",
+        "description": "source codes.carlos_terrasa_editor_csv",
+        "peekOfCode": "label_principal = Label(window,\ntext=\"Newtron's CSV Editor\",\nfont=('Ink Free', 20, 'bold'),\nfg='black',\nbg='white',\nrelief=RAISED, #para los bordes\nbd=10, # tamaño de los bordes\npadx=20,#espacion entre el borde del titulo y el titulo(x=horizontal)\npady=20,#espacion entre el borde del titulo y el titulo(y=veritcal)\n)",
+        "detail": "source codes.carlos_terrasa_editor_csv",
+        "documentation": {}
+    },
+    {
+        "label": "select_button",
+        "kind": 5,
+        "importPath": "source codes.carlos_terrasa_editor_csv",
+        "description": "source codes.carlos_terrasa_editor_csv",
+        "peekOfCode": "select_button = tk.Button(window, text=\"Select File\", command=select_file)\nselect_button.pack(pady=10)\n# Create a label to display the selected file pathclear\npath_label = tk.Label(window, text=\"\")\npath_label.pack(pady=10)\n# Create a button to submit the file\nsubmit_button = tk.Button(window, text=\"Submit File\", command=submit_file)\nsubmit_button.pack(pady=10)\nwindow.mainloop()",
+        "detail": "source codes.carlos_terrasa_editor_csv",
+        "documentation": {}
+    },
+    {
+        "label": "path_label",
+        "kind": 5,
+        "importPath": "source codes.carlos_terrasa_editor_csv",
+        "description": "source codes.carlos_terrasa_editor_csv",
+        "peekOfCode": "path_label = tk.Label(window, text=\"\")\npath_label.pack(pady=10)\n# Create a button to submit the file\nsubmit_button = tk.Button(window, text=\"Submit File\", command=submit_file)\nsubmit_button.pack(pady=10)\nwindow.mainloop()",
+        "detail": "source codes.carlos_terrasa_editor_csv",
+        "documentation": {}
+    },
+    {
+        "label": "submit_button",
+        "kind": 5,
+        "importPath": "source codes.carlos_terrasa_editor_csv",
+        "description": "source codes.carlos_terrasa_editor_csv",
+        "peekOfCode": "submit_button = tk.Button(window, text=\"Submit File\", command=submit_file)\nsubmit_button.pack(pady=10)\nwindow.mainloop()",
+        "detail": "source codes.carlos_terrasa_editor_csv",
+        "documentation": {}
+    },
+    {
+        "label": "select_file",
+        "kind": 2,
+        "importPath": "source codes.copilotTest",
+        "description": "source codes.copilotTest",
+        "peekOfCode": "def select_file():\n    file_path = filedialog.askopenfilename()\n    if file_path:\n        path_label.config(text=file_path)\ndef submit_file():\n    file_path = path_label.cget(\"text\")\n    if file_path:\n        # Here you can add the code to process the file\n        print(f\"File submitted: {file_path}\")\n# Create the main window",
+        "detail": "source codes.copilotTest",
+        "documentation": {}
+    },
+    {
+        "label": "submit_file",
+        "kind": 2,
+        "importPath": "source codes.copilotTest",
+        "description": "source codes.copilotTest",
+        "peekOfCode": "def submit_file():\n    file_path = path_label.cget(\"text\")\n    if file_path:\n        # Here you can add the code to process the file\n        print(f\"File submitted: {file_path}\")\n# Create the main window\nroot = tk.Tk()\nroot.title(\"File Selector\")\n# Create a button to select a file\nselect_button = tk.Button(root, text=\"Select File\", command=select_file)",
+        "detail": "source codes.copilotTest",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "source codes.copilotTest",
+        "description": "source codes.copilotTest",
+        "peekOfCode": "root = tk.Tk()\nroot.title(\"File Selector\")\n# Create a button to select a file\nselect_button = tk.Button(root, text=\"Select File\", command=select_file)\nselect_button.pack(pady=10)\n# Create a label to display the selected file path\npath_label = tk.Label(root, text=\"\")\npath_label.pack(pady=10)\n# Create a button to submit the file\nsubmit_button = tk.Button(root, text=\"Submit File\", command=submit_file)",
+        "detail": "source codes.copilotTest",
+        "documentation": {}
+    },
+    {
+        "label": "select_button",
+        "kind": 5,
+        "importPath": "source codes.copilotTest",
+        "description": "source codes.copilotTest",
+        "peekOfCode": "select_button = tk.Button(root, text=\"Select File\", command=select_file)\nselect_button.pack(pady=10)\n# Create a label to display the selected file path\npath_label = tk.Label(root, text=\"\")\npath_label.pack(pady=10)\n# Create a button to submit the file\nsubmit_button = tk.Button(root, text=\"Submit File\", command=submit_file)\nsubmit_button.pack(pady=10)\n# Run the application\nroot.mainloop()",
+        "detail": "source codes.copilotTest",
+        "documentation": {}
+    },
+    {
+        "label": "path_label",
+        "kind": 5,
+        "importPath": "source codes.copilotTest",
+        "description": "source codes.copilotTest",
+        "peekOfCode": "path_label = tk.Label(root, text=\"\")\npath_label.pack(pady=10)\n# Create a button to submit the file\nsubmit_button = tk.Button(root, text=\"Submit File\", command=submit_file)\nsubmit_button.pack(pady=10)\n# Run the application\nroot.mainloop()",
+        "detail": "source codes.copilotTest",
+        "documentation": {}
+    },
+    {
+        "label": "submit_button",
+        "kind": 5,
+        "importPath": "source codes.copilotTest",
+        "description": "source codes.copilotTest",
+        "peekOfCode": "submit_button = tk.Button(root, text=\"Submit File\", command=submit_file)\nsubmit_button.pack(pady=10)\n# Run the application\nroot.mainloop()",
+        "detail": "source codes.copilotTest",
+        "documentation": {}
+    },
+    {
+        "label": "procesar_csv",
+        "kind": 2,
+        "importPath": "source codes.editar_excel",
+        "description": "source codes.editar_excel",
+        "peekOfCode": "def procesar_csv(archivo_csv, campos_a_extraer):\n    \"\"\"\n    Lee un archivo CSV, selecciona los campos especificados y guarda un nuevo CSV.\n    Args:\n        archivo_csv (str): Ruta al archivo CSV de entrada.\n        campos_a_extraer (list): Lista de nombres de columnas a extraer.\n    \"\"\"\n    try:\n        # Leer el archivo CSV\n        df = pd.read_csv(archivo_csv)",
+        "detail": "source codes.editar_excel",
+        "documentation": {}
+    },
+    {
+        "label": "seleccionar_archivo",
+        "kind": 2,
+        "importPath": "source codes.editar_excel",
+        "description": "source codes.editar_excel",
+        "peekOfCode": "def seleccionar_archivo():\n    \"\"\"Abre un diálogo para seleccionar el archivo CSV.\"\"\"\n    archivo_seleccionado = filedialog.askopenfilename(filetypes=[(\"Archivos CSV\", \"*.csv\")])\n    if archivo_seleccionado:\n        # Llama a la función procesar_csv con el archivo seleccionado\n        procesar_csv(archivo_seleccionado, campos_deseados)\n    else:\n        print(\"No se seleccionó ningún archivo.\")\n# Ejemplo de uso:\narchivo_entrada = \"C:\\\\Users\\\\jimmy\\\\OneDrive\\\\Documents\\\\Development AMD\\\\demos\\\\original\\\\raken_og.csv\"",
+        "detail": "source codes.editar_excel",
+        "documentation": {}
+    },
+    {
+        "label": "archivo_entrada",
+        "kind": 5,
+        "importPath": "source codes.editar_excel",
+        "description": "source codes.editar_excel",
+        "peekOfCode": "archivo_entrada = \"C:\\\\Users\\\\jimmy\\\\OneDrive\\\\Documents\\\\Development AMD\\\\demos\\\\original\\\\raken_og.csv\"\ncampos_deseados =  [\n              \"Last Name\",\t\n              \"First Name\",\t\n              \"EID\",\n              \"Day\",\t\n              \"Date\",\t\n              \"Project Name\",\t\n              \"Job #\",\n              \"Classification\",\t",
+        "detail": "source codes.editar_excel",
+        "documentation": {}
+    },
+    {
+        "label": "campos_deseados",
+        "kind": 5,
+        "importPath": "source codes.editar_excel",
+        "description": "source codes.editar_excel",
+        "peekOfCode": "campos_deseados =  [\n              \"Last Name\",\t\n              \"First Name\",\t\n              \"EID\",\n              \"Day\",\t\n              \"Date\",\t\n              \"Project Name\",\t\n              \"Job #\",\n              \"Classification\",\t\n              \"Pay Type\",",
+        "detail": "source codes.editar_excel",
+        "documentation": {}
+    },
+    {
+        "label": "procesar_csv",
+        "kind": 2,
+        "importPath": "source codes.editar_excel2",
+        "description": "source codes.editar_excel2",
+        "peekOfCode": "def procesar_csv(archivo_csv, campos_a_extraer):\n    \"\"\"\n    Lee un archivo CSV, selecciona los campos especificados y guarda un nuevo CSV.\n    Args:\n        archivo_csv (str): Ruta al archivo CSV de entrada.\n        campos_a_extraer (list): Lista de nombres de columnas a extraer.\n    \"\"\"\n    try:\n        # Leer el archivo CSV\n        df = pd.read_csv(archivo_csv)",
+        "detail": "source codes.editar_excel2",
+        "documentation": {}
+    },
+    {
+        "label": "archivo_entrada",
+        "kind": 5,
+        "importPath": "source codes.editar_excel2",
+        "description": "source codes.editar_excel2",
+        "peekOfCode": "archivo_entrada = \"C:\\\\Users\\\\jimmy\\\\OneDrive\\\\Documents\\\\Development AMD\\\\demos\\\\original\\\\raken_og.csv\"\ncampos_deseados =  [\n              \"Last Name\",\t\n              \"First Name\",\t\n              \"EID\",\n              \"Day\",\t\n              \"Date\",\t\n              \"Project Name\",\t\n              \"Job #\",\n              \"Classification\",\t",
+        "detail": "source codes.editar_excel2",
+        "documentation": {}
+    },
+    {
+        "label": "campos_deseados",
+        "kind": 5,
+        "importPath": "source codes.editar_excel2",
+        "description": "source codes.editar_excel2",
+        "peekOfCode": "campos_deseados =  [\n              \"Last Name\",\t\n              \"First Name\",\t\n              \"EID\",\n              \"Day\",\t\n              \"Date\",\t\n              \"Project Name\",\t\n              \"Job #\",\n              \"Classification\",\t\n              \"Pay Type\",",
+        "detail": "source codes.editar_excel2",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "source codes.editar_excel2",
+        "description": "source codes.editar_excel2",
+        "peekOfCode": "root = tk.Tk()\nroot.title(\"CSV Processor\")\nprocess_button = tk.Button(root, text=\"Process CSV\", command=procesar_csv(archivo_entrada, campos_deseados))\nprocess_button.pack()\nroot.mainloop()",
+        "detail": "source codes.editar_excel2",
+        "documentation": {}
+    },
+    {
+        "label": "process_button",
+        "kind": 5,
+        "importPath": "source codes.editar_excel2",
+        "description": "source codes.editar_excel2",
+        "peekOfCode": "process_button = tk.Button(root, text=\"Process CSV\", command=procesar_csv(archivo_entrada, campos_deseados))\nprocess_button.pack()\nroot.mainloop()",
+        "detail": "source codes.editar_excel2",
+        "documentation": {}
+    },
+    {
+        "label": "procesar_csv",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "def procesar_csv(archivo_csv1, campos_a_extraer1, archivo_csv2, campos_a_extraer2):\n    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')\n    try:\n        # Validate file paths\n        if not os.path.isfile(archivo_csv1):\n            raise FileNotFoundError(f\"El archivo CSV no existe: {archivo_csv1}\")\n        if not os.path.isfile(archivo_csv2):\n            raise FileNotFoundError(f\"El archivo CSV no existe: {archivo_csv2}\")\n        df1 = pd.read_csv(archivo_csv1)\n        df2 = pd.read_csv(archivo_csv2)",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "select_file1",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "def select_file1():\n    file_path = filedialog.askopenfilename()\n    if file_path:\n        # Store the full file path in a global variable\n        global full_path_file1\n        full_path_file1 = file_path\n        # Display only the file name\n        path_label1.config(text=os.path.basename(file_path))\n        display_columns(file_path, listbox1, select_button1a, columns1)\ndef select_file2():",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "select_file2",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "def select_file2():\n    file_path = filedialog.askopenfilename()\n    if file_path:\n        # Store the full file path in a global variable\n        global full_path_file2\n        full_path_file2 = file_path\n        # Display only the file name\n        path_label2.config(text=os.path.basename(file_path))\n        display_columns(file_path, listbox2, select_button2a, columns2)\ndef display_columns(file_path, listbox, select_button, columns):",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "display_columns",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "def display_columns(file_path, listbox, select_button, columns):\n    df = pd.read_csv(file_path)\n    columns.clear()\n    columns.extend(list(df.columns))\n    def on_select():\n        try:\n            selected_indices = listbox.curselection()\n            if not selected_indices:\n                messagebox.showwarning(\"Advertencia\", \"Debe seleccionar al menos una columna.\")\n                return",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "add_column_to_combined",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "def add_column_to_combined():\n    new_column = simpledialog.askstring(\"Agregar columna\", \"Ingrese el nombre de la nueva columna:\")\n    if new_column:\n        combined_listbox.insert(tk.END, new_column)\ndef delete_selected_column():\n    try:\n        selected_index = combined_listbox.curselection()\n        if not selected_index:\n            messagebox.showwarning(\"Advertencia\", \"Debe seleccionar una columna para eliminar.\")\n            return",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "delete_selected_column",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "def delete_selected_column():\n    try:\n        selected_index = combined_listbox.curselection()\n        if not selected_index:\n            messagebox.showwarning(\"Advertencia\", \"Debe seleccionar una columna para eliminar.\")\n            return\n        combined_listbox.delete(selected_index)\n    except Exception as e:\n        logging.error(f\"Se produjo un error inesperado: {e}\")\n        messagebox.showerror(\"Error\", f\"Se produjo un error inesperado: {e}\")",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "open_about_window",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "def open_about_window():\n    about_window = tk.Toplevel(window)\n    about_window.title(\"About\")\n    about_window.geometry(\"300x200\")\n    ttk.Label(about_window, text=\"CSV Editor\", font=(\"Helvetica\", 16)).pack(pady=10)\n    ttk.Label(about_window, text=\"Version 1.0\").pack(pady=5)\n    ttk.Label(about_window, text=\"Author: Jimmy Hernández Rivera\").pack(pady=5)\n    ttk.Label(about_window, text=\"A simple CSV editing tool.\").pack(pady=10)\nwindow = tk.Tk()\nwindow.geometry(\"800x600\")",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "window = tk.Tk()\nwindow.geometry(\"800x600\")\nwindow.title(\"CSV EDITOR 1.0\")\nwindow.config(background=\"white\")\n# Centering the main window\nwindow.grid_rowconfigure(0, weight=1)\nwindow.grid_rowconfigure(10, weight=1)\nwindow.grid_columnconfigure(0, weight=1)\nwindow.grid_columnconfigure(4, weight=1)\nlabel_principal = tk.Label(window, text=\"Newtron's CSV Editor 1.0\", font=('Ink Free', 20, 'bold'))",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "label_principal",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "label_principal = tk.Label(window, text=\"Newtron's CSV Editor 1.0\", font=('Ink Free', 20, 'bold'))\nlabel_principal.grid(row=0, column=1)\n# First file selection\nselect_button1 = tk.Button(window, text=\"Select File 1\", command=select_file1)\nselect_button1.grid(row=4, column=0, pady=10)\npath_label1 = tk.Label(window, text=\"\")\npath_label1.grid(row=2, column=0, pady=10)\nlistbox1 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox1.grid(row=3, column=0, pady=10)\nselect_button1a = tk.Button(window, text=\"Seleccionar Columnas\")",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "select_button1",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "select_button1 = tk.Button(window, text=\"Select File 1\", command=select_file1)\nselect_button1.grid(row=4, column=0, pady=10)\npath_label1 = tk.Label(window, text=\"\")\npath_label1.grid(row=2, column=0, pady=10)\nlistbox1 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox1.grid(row=3, column=0, pady=10)\nselect_button1a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button1a.grid(row=5, column=0, pady=10)\n# Second file selection\nselect_button2 = tk.Button(window, text=\"Select File 2\", command=select_file2)",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "path_label1",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "path_label1 = tk.Label(window, text=\"\")\npath_label1.grid(row=2, column=0, pady=10)\nlistbox1 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox1.grid(row=3, column=0, pady=10)\nselect_button1a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button1a.grid(row=5, column=0, pady=10)\n# Second file selection\nselect_button2 = tk.Button(window, text=\"Select File 2\", command=select_file2)\nselect_button2.grid(row=4, column=1, pady=10)\npath_label2 = tk.Label(window, text=\"\")",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "listbox1",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "listbox1 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox1.grid(row=3, column=0, pady=10)\nselect_button1a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button1a.grid(row=5, column=0, pady=10)\n# Second file selection\nselect_button2 = tk.Button(window, text=\"Select File 2\", command=select_file2)\nselect_button2.grid(row=4, column=1, pady=10)\npath_label2 = tk.Label(window, text=\"\")\npath_label2.grid(row=2, column=1, pady=10)\nlistbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "select_button1a",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "select_button1a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button1a.grid(row=5, column=0, pady=10)\n# Second file selection\nselect_button2 = tk.Button(window, text=\"Select File 2\", command=select_file2)\nselect_button2.grid(row=4, column=1, pady=10)\npath_label2 = tk.Label(window, text=\"\")\npath_label2.grid(row=2, column=1, pady=10)\nlistbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox2.grid(row=3, column=1, pady=10)\nselect_button2a = tk.Button(window, text=\"Seleccionar Columnas\")",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "select_button2",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "select_button2 = tk.Button(window, text=\"Select File 2\", command=select_file2)\nselect_button2.grid(row=4, column=1, pady=10)\npath_label2 = tk.Label(window, text=\"\")\npath_label2.grid(row=2, column=1, pady=10)\nlistbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox2.grid(row=3, column=1, pady=10)\nselect_button2a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button2a.grid(row=5, column=1, pady=10)\n# Combined columns display\ncombined_filename = tk.Label(window, text=\"New CSV file\")",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "path_label2",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "path_label2 = tk.Label(window, text=\"\")\npath_label2.grid(row=2, column=1, pady=10)\nlistbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox2.grid(row=3, column=1, pady=10)\nselect_button2a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button2a.grid(row=5, column=1, pady=10)\n# Combined columns display\ncombined_filename = tk.Label(window, text=\"New CSV file\")\ncombined_filename.grid(row=2, column=2, pady=10)\ncombined_listbox = tk.Listbox(window)",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "listbox2",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "listbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox2.grid(row=3, column=1, pady=10)\nselect_button2a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button2a.grid(row=5, column=1, pady=10)\n# Combined columns display\ncombined_filename = tk.Label(window, text=\"New CSV file\")\ncombined_filename.grid(row=2, column=2, pady=10)\ncombined_listbox = tk.Listbox(window)\ncombined_listbox.grid(row=3, column=2, columnspan=1, pady=10)\n# Add and delete column buttons for combined list",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "select_button2a",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "select_button2a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button2a.grid(row=5, column=1, pady=10)\n# Combined columns display\ncombined_filename = tk.Label(window, text=\"New CSV file\")\ncombined_filename.grid(row=2, column=2, pady=10)\ncombined_listbox = tk.Listbox(window)\ncombined_listbox.grid(row=3, column=2, columnspan=1, pady=10)\n# Add and delete column buttons for combined list\nadd_button_combined = tk.Button(window, text=\"Agregar Columna\", command=add_column_to_combined)\nadd_button_combined.grid(row=4, column=2, pady=10)",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "combined_filename",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "combined_filename = tk.Label(window, text=\"New CSV file\")\ncombined_filename.grid(row=2, column=2, pady=10)\ncombined_listbox = tk.Listbox(window)\ncombined_listbox.grid(row=3, column=2, columnspan=1, pady=10)\n# Add and delete column buttons for combined list\nadd_button_combined = tk.Button(window, text=\"Agregar Columna\", command=add_column_to_combined)\nadd_button_combined.grid(row=4, column=2, pady=10)\ndelete_button_combined = tk.Button(window, text=\"Eliminar Columna\", command=delete_selected_column)\ndelete_button_combined.grid(row=5, column=2, pady=10)\n# Submit and reset buttons",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "combined_listbox",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "combined_listbox = tk.Listbox(window)\ncombined_listbox.grid(row=3, column=2, columnspan=1, pady=10)\n# Add and delete column buttons for combined list\nadd_button_combined = tk.Button(window, text=\"Agregar Columna\", command=add_column_to_combined)\nadd_button_combined.grid(row=4, column=2, pady=10)\ndelete_button_combined = tk.Button(window, text=\"Eliminar Columna\", command=delete_selected_column)\ndelete_button_combined.grid(row=5, column=2, pady=10)\n# Submit and reset buttons\nsubmit_button = tk.Button(window, text=\"Submit File\", command=lambda: procesar_csv(full_path_file1, [columns1[i] for i in listbox1.curselection()], full_path_file2, [columns2[i] for i in listbox2.curselection()]))\nsubmit_button.grid(row=10, column=1,pady=10)",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "add_button_combined",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "add_button_combined = tk.Button(window, text=\"Agregar Columna\", command=add_column_to_combined)\nadd_button_combined.grid(row=4, column=2, pady=10)\ndelete_button_combined = tk.Button(window, text=\"Eliminar Columna\", command=delete_selected_column)\ndelete_button_combined.grid(row=5, column=2, pady=10)\n# Submit and reset buttons\nsubmit_button = tk.Button(window, text=\"Submit File\", command=lambda: procesar_csv(full_path_file1, [columns1[i] for i in listbox1.curselection()], full_path_file2, [columns2[i] for i in listbox2.curselection()]))\nsubmit_button.grid(row=10, column=1,pady=10)\nabout_button = ttk.Button(window, text=\"ABOUT\", command=open_about_window)\nabout_button.grid(row=12, column=1,pady=10)\ncolumns1 = []",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "delete_button_combined",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "delete_button_combined = tk.Button(window, text=\"Eliminar Columna\", command=delete_selected_column)\ndelete_button_combined.grid(row=5, column=2, pady=10)\n# Submit and reset buttons\nsubmit_button = tk.Button(window, text=\"Submit File\", command=lambda: procesar_csv(full_path_file1, [columns1[i] for i in listbox1.curselection()], full_path_file2, [columns2[i] for i in listbox2.curselection()]))\nsubmit_button.grid(row=10, column=1,pady=10)\nabout_button = ttk.Button(window, text=\"ABOUT\", command=open_about_window)\nabout_button.grid(row=12, column=1,pady=10)\ncolumns1 = []\ncolumns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "submit_button",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "submit_button = tk.Button(window, text=\"Submit File\", command=lambda: procesar_csv(full_path_file1, [columns1[i] for i in listbox1.curselection()], full_path_file2, [columns2[i] for i in listbox2.curselection()]))\nsubmit_button.grid(row=10, column=1,pady=10)\nabout_button = ttk.Button(window, text=\"ABOUT\", command=open_about_window)\nabout_button.grid(row=12, column=1,pady=10)\ncolumns1 = []\ncolumns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "about_button",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "about_button = ttk.Button(window, text=\"ABOUT\", command=open_about_window)\nabout_button.grid(row=12, column=1,pady=10)\ncolumns1 = []\ncolumns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "columns1",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "columns1 = []\ncolumns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "columns2",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.0",
+        "description": "source codes.editor2n1-v1.0",
+        "peekOfCode": "columns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v1.0",
+        "documentation": {}
+    },
+    {
+        "label": "ConsoleRedirect",
+        "kind": 6,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "class ConsoleRedirect:\n    def __init__(self, widget):\n        self.widget = widget\n    def write(self, text):\n        self.widget.insert(tk.END, text)\n        self.widget.see(tk.END)\n    def flush(self):\n        pass\nsys.stdout = ConsoleRedirect(console_display)\nsys.stderr = ConsoleRedirect(console_display)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "save_state",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def save_state():\n    # Save the current state of the combined listbox for undo functionality\n    state = combined_listbox.get(0, tk.END)\n    undo_stack.append(state)\n    redo_stack.clear()\ndef undo():\n    if undo_stack:\n        state = undo_stack.pop()\n        redo_stack.append(combined_listbox.get(0, tk.END))\n        combined_listbox.delete(0, tk.END)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "undo",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def undo():\n    if undo_stack:\n        state = undo_stack.pop()\n        redo_stack.append(combined_listbox.get(0, tk.END))\n        combined_listbox.delete(0, tk.END)\n        for item in state:\n            combined_listbox.insert(tk.END, item)\ndef redo():\n    if redo_stack:\n        state = redo_stack.pop()",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "redo",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def redo():\n    if redo_stack:\n        state = redo_stack.pop()\n        undo_stack.append(combined_listbox.get(0, tk.END))\n        combined_listbox.delete(0, tk.END)\n        for item in state:\n            combined_listbox.insert(tk.END, item)\ndef procesar_csv(archivo_csv1, campos_a_extraer1, archivo_csv2, campos_a_extraer2):\n    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')\n    try:",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "procesar_csv",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def procesar_csv(archivo_csv1, campos_a_extraer1, archivo_csv2, campos_a_extraer2):\n    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')\n    try:\n        # Validate file paths\n        if not os.path.isfile(archivo_csv1):\n            raise FileNotFoundError(f\"El archivo CSV no existe: {archivo_csv1}\")\n        if not os.path.isfile(archivo_csv2):\n            raise FileNotFoundError(f\"El archivo CSV no existe: {archivo_csv2}\")\n        df1 = pd.read_csv(archivo_csv1)\n        df2 = pd.read_csv(archivo_csv2)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "select_file1",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def select_file1():\n    file_path = filedialog.askopenfilename()\n    if file_path:\n        # Store the full file path in a global variable\n        global full_path_file1\n        full_path_file1 = file_path\n        # Display only the file name\n        path_label1.config(text=os.path.basename(file_path))\n        display_columns(file_path, listbox1, select_button1a, columns1)\ndef select_file2():",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "select_file2",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def select_file2():\n    file_path = filedialog.askopenfilename()\n    if file_path:\n        # Store the full file path in a global variable\n        global full_path_file2\n        full_path_file2 = file_path\n        # Display only the file name\n        path_label2.config(text=os.path.basename(file_path))\n        display_columns(file_path, listbox2, select_button2a, columns2)\ndef display_columns(file_path, listbox, select_button, columns):",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "display_columns",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def display_columns(file_path, listbox, select_button, columns):\n    df = pd.read_csv(file_path)\n    columns.clear()\n    columns.extend(list(df.columns))\n    def on_select():\n        try:\n            selected_indices = listbox.curselection()\n            if not selected_indices:\n                messagebox.showwarning(\"Advertencia\", \"Debe seleccionar al menos una columna.\")\n                return",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "add_column_to_combined",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def add_column_to_combined():\n    new_column = simpledialog.askstring(\"Agregar columna\", \"Ingrese el nombre de la nueva columna:\")\n    if new_column:\n        combined_listbox.insert(tk.END, new_column)\ndef delete_selected_column():\n    try:\n        selected_index = combined_listbox.curselection()\n        if not selected_index:\n            messagebox.showwarning(\"Advertencia\", \"Debe seleccionar una columna para eliminar.\")\n            return",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "delete_selected_column",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def delete_selected_column():\n    try:\n        selected_index = combined_listbox.curselection()\n        if not selected_index:\n            messagebox.showwarning(\"Advertencia\", \"Debe seleccionar una columna para eliminar.\")\n            return\n        combined_listbox.delete(selected_index)\n    except Exception as e:\n        logging.error(f\"Se produjo un error inesperado: {e}\")\n        messagebox.showerror(\"Error\", f\"Se produjo un error inesperado: {e}\")",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "rename_column",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def rename_column():\n    try:\n        selected_index = combined_listbox.curselection()\n        if not selected_index:\n            messagebox.showwarning(\"Advertencia\", \"Debe seleccionar una columna para renombrar.\")\n            return\n        new_name = simpledialog.askstring(\"Renombrar columna\", \"Ingrese el nuevo nombre de la columna:\")\n        if new_name:\n            combined_listbox.delete(selected_index)\n            combined_listbox.insert(selected_index, new_name)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "move_column_up",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def move_column_up():\n    try:\n        selected_index = combined_listbox.curselection()\n        if not selected_index or selected_index[0] == 0:\n            return\n        index = selected_index[0]\n        column_value = combined_listbox.get(index)\n        combined_listbox.delete(index)\n        combined_listbox.insert(index - 1, column_value)\n        combined_listbox.select_set(index - 1)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "move_column_down",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def move_column_down():\n    try:\n        selected_index = combined_listbox.curselection()\n        if not selected_index or selected_index[0] == combined_listbox.size() - 1:\n            return\n        index = selected_index[0]\n        column_value = combined_listbox.get(index)\n        combined_listbox.delete(index)\n        combined_listbox.insert(index + 1, column_value)\n        combined_listbox.select_set(index + 1)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "reset_fields",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def reset_fields():\n    path_label1.config(text=\"\")\n    path_label2.config(text=\"\")\n    listbox1.delete(0, tk.END)\n    listbox2.delete(0, tk.END)\n    combined_listbox.delete(0, tk.END)\n    status_label.config(text=\"\")\n# Function to open the \"About\" window\ndef open_about_window():\n    about_window = tk.Toplevel(window)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "open_about_window",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def open_about_window():\n    about_window = tk.Toplevel(window)\n    about_window.title(\"About\")\n    about_window.geometry(\"300x200\")\n    ttk.Label(about_window, text=\"CSV Editor\", font=(\"Helvetica\", 16)).pack(pady=10)\n    ttk.Label(about_window, text=\"Version 1.5\").pack(pady=5)\n    ttk.Label(about_window, text=\"Author: Jimmy Hernández Rivera\").pack(pady=5)\n    ttk.Label(about_window, text=\"A simple CSV editing tool.\").pack(pady=10)\nwindow = tk.Tk()\nwindow.geometry(\"800x600\")",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "confirm_and_open_file",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "def confirm_and_open_file(file_path):\n    if os.path.exists(file_path):\n        if file_path in opened_files:\n            messagebox.showinfo(\"File Already Open\", \"This file is already open.\")\n        else:\n            if messagebox.askyesno(\"Open File\", \"Are you sure you want to open this file?\"):\n                try:\n                    os.startfile(file_path)\n                    opened_files.add(file_path)\n                except Exception as e:",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "undo_stack",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "undo_stack = []\nredo_stack = []\ndef save_state():\n    # Save the current state of the combined listbox for undo functionality\n    state = combined_listbox.get(0, tk.END)\n    undo_stack.append(state)\n    redo_stack.clear()\ndef undo():\n    if undo_stack:\n        state = undo_stack.pop()",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "redo_stack",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "redo_stack = []\ndef save_state():\n    # Save the current state of the combined listbox for undo functionality\n    state = combined_listbox.get(0, tk.END)\n    undo_stack.append(state)\n    redo_stack.clear()\ndef undo():\n    if undo_stack:\n        state = undo_stack.pop()\n        redo_stack.append(combined_listbox.get(0, tk.END))",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "window = tk.Tk()\nwindow.geometry(\"800x600\")\nwindow.title(\"CSV EDITOR 1.5\")\nwindow.config(background=\"white\")\n# Centering the main window\nwindow.grid_rowconfigure(0, weight=1)\nwindow.grid_rowconfigure(10, weight=1)\nwindow.grid_columnconfigure(0, weight=1)\nwindow.grid_columnconfigure(1, weight=1)\nwindow.grid_columnconfigure(2, weight=1)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "title_label",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "title_label = tk.Label(window, text=\"CSV Editor 1.5\", font=(\"Helvetica\", 16), background=\"white\")\ntitle_label.grid(row=0, column=0, columnspan=5, pady=10)\n# First file selection\nlistbox1 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox1.grid(row=1, column=1, padx=10, pady=5)\nselect_button1 = tk.Button(window, text=\"Select File 1\", command=select_file1)\nselect_button1.grid(row=3, column=1, padx=10, pady=10)\npath_label1 = tk.Label(window, text=\"\")\npath_label1.grid(row=2, column=1, padx=10, pady=5)\nselect_button1a = tk.Button(window, text=\"Seleccionar Columnas\")",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "listbox1",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "listbox1 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox1.grid(row=1, column=1, padx=10, pady=5)\nselect_button1 = tk.Button(window, text=\"Select File 1\", command=select_file1)\nselect_button1.grid(row=3, column=1, padx=10, pady=10)\npath_label1 = tk.Label(window, text=\"\")\npath_label1.grid(row=2, column=1, padx=10, pady=5)\nselect_button1a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button1a.grid(row=4, column=1, padx=10, pady=5)\n# Second file selection\nlistbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "select_button1",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "select_button1 = tk.Button(window, text=\"Select File 1\", command=select_file1)\nselect_button1.grid(row=3, column=1, padx=10, pady=10)\npath_label1 = tk.Label(window, text=\"\")\npath_label1.grid(row=2, column=1, padx=10, pady=5)\nselect_button1a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button1a.grid(row=4, column=1, padx=10, pady=5)\n# Second file selection\nlistbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox2.grid(row=1, column=2, padx=10, pady=5)\nselect_button2 = tk.Button(window, text=\"Select File 2\", command=select_file2)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "path_label1",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "path_label1 = tk.Label(window, text=\"\")\npath_label1.grid(row=2, column=1, padx=10, pady=5)\nselect_button1a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button1a.grid(row=4, column=1, padx=10, pady=5)\n# Second file selection\nlistbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox2.grid(row=1, column=2, padx=10, pady=5)\nselect_button2 = tk.Button(window, text=\"Select File 2\", command=select_file2)\nselect_button2.grid(row=3, column=2, padx=10, pady=10)\npath_label2 = tk.Label(window, text=\"\")",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "select_button1a",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "select_button1a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button1a.grid(row=4, column=1, padx=10, pady=5)\n# Second file selection\nlistbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox2.grid(row=1, column=2, padx=10, pady=5)\nselect_button2 = tk.Button(window, text=\"Select File 2\", command=select_file2)\nselect_button2.grid(row=3, column=2, padx=10, pady=10)\npath_label2 = tk.Label(window, text=\"\")\npath_label2.grid(row=2, column=2, padx=10, pady=5)\nselect_button2a = tk.Button(window, text=\"Seleccionar Columnas\")",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "listbox2",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "listbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox2.grid(row=1, column=2, padx=10, pady=5)\nselect_button2 = tk.Button(window, text=\"Select File 2\", command=select_file2)\nselect_button2.grid(row=3, column=2, padx=10, pady=10)\npath_label2 = tk.Label(window, text=\"\")\npath_label2.grid(row=2, column=2, padx=10, pady=5)\nselect_button2a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button2a.grid(row=4, column=2, padx=10, pady=5)\n# Combined columns display\ncombined_listbox = tk.Listbox(window)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "select_button2",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "select_button2 = tk.Button(window, text=\"Select File 2\", command=select_file2)\nselect_button2.grid(row=3, column=2, padx=10, pady=10)\npath_label2 = tk.Label(window, text=\"\")\npath_label2.grid(row=2, column=2, padx=10, pady=5)\nselect_button2a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button2a.grid(row=4, column=2, padx=10, pady=5)\n# Combined columns display\ncombined_listbox = tk.Listbox(window)\ncombined_listbox.grid(row=1, column=3,padx=10, pady=10, sticky=\"ew\")\n# Buttons on the right side",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "path_label2",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "path_label2 = tk.Label(window, text=\"\")\npath_label2.grid(row=2, column=2, padx=10, pady=5)\nselect_button2a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button2a.grid(row=4, column=2, padx=10, pady=5)\n# Combined columns display\ncombined_listbox = tk.Listbox(window)\ncombined_listbox.grid(row=1, column=3,padx=10, pady=10, sticky=\"ew\")\n# Buttons on the right side\nbutton_frame = tk.Frame(window)\nbutton_frame.grid(row=1, column=4, rowspan=6, padx=10, pady=10, sticky=\"ns\")",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "select_button2a",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "select_button2a = tk.Button(window, text=\"Seleccionar Columnas\")\nselect_button2a.grid(row=4, column=2, padx=10, pady=5)\n# Combined columns display\ncombined_listbox = tk.Listbox(window)\ncombined_listbox.grid(row=1, column=3,padx=10, pady=10, sticky=\"ew\")\n# Buttons on the right side\nbutton_frame = tk.Frame(window)\nbutton_frame.grid(row=1, column=4, rowspan=6, padx=10, pady=10, sticky=\"ns\")\nadd_button_combined = tk.Button(button_frame, text=\"Agregar Columna\", command=add_column_to_combined)\nadd_button_combined.grid(row=0, column=0, pady=5)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "combined_listbox",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "combined_listbox = tk.Listbox(window)\ncombined_listbox.grid(row=1, column=3,padx=10, pady=10, sticky=\"ew\")\n# Buttons on the right side\nbutton_frame = tk.Frame(window)\nbutton_frame.grid(row=1, column=4, rowspan=6, padx=10, pady=10, sticky=\"ns\")\nadd_button_combined = tk.Button(button_frame, text=\"Agregar Columna\", command=add_column_to_combined)\nadd_button_combined.grid(row=0, column=0, pady=5)\ndelete_button_combined = tk.Button(button_frame, text=\"Eliminar Columna\", command=delete_selected_column)\ndelete_button_combined.grid(row=1, column=0, pady=5)\nrename_button_combined = tk.Button(button_frame, text=\"Renombrar Columna\", command=rename_column)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "button_frame",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "button_frame = tk.Frame(window)\nbutton_frame.grid(row=1, column=4, rowspan=6, padx=10, pady=10, sticky=\"ns\")\nadd_button_combined = tk.Button(button_frame, text=\"Agregar Columna\", command=add_column_to_combined)\nadd_button_combined.grid(row=0, column=0, pady=5)\ndelete_button_combined = tk.Button(button_frame, text=\"Eliminar Columna\", command=delete_selected_column)\ndelete_button_combined.grid(row=1, column=0, pady=5)\nrename_button_combined = tk.Button(button_frame, text=\"Renombrar Columna\", command=rename_column)\nrename_button_combined.grid(row=2, column=0, pady=5)\nmove_up_button = tk.Button(button_frame, text=\"Mover Arriba\", command=move_column_up)\nmove_up_button.grid(row=3, column=0, pady=5)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "add_button_combined",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "add_button_combined = tk.Button(button_frame, text=\"Agregar Columna\", command=add_column_to_combined)\nadd_button_combined.grid(row=0, column=0, pady=5)\ndelete_button_combined = tk.Button(button_frame, text=\"Eliminar Columna\", command=delete_selected_column)\ndelete_button_combined.grid(row=1, column=0, pady=5)\nrename_button_combined = tk.Button(button_frame, text=\"Renombrar Columna\", command=rename_column)\nrename_button_combined.grid(row=2, column=0, pady=5)\nmove_up_button = tk.Button(button_frame, text=\"Mover Arriba\", command=move_column_up)\nmove_up_button.grid(row=3, column=0, pady=5)\nmove_down_button = tk.Button(button_frame, text=\"Mover Abajo\", command=move_column_down)\nmove_down_button.grid(row=4, column=0, pady=5)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "delete_button_combined",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "delete_button_combined = tk.Button(button_frame, text=\"Eliminar Columna\", command=delete_selected_column)\ndelete_button_combined.grid(row=1, column=0, pady=5)\nrename_button_combined = tk.Button(button_frame, text=\"Renombrar Columna\", command=rename_column)\nrename_button_combined.grid(row=2, column=0, pady=5)\nmove_up_button = tk.Button(button_frame, text=\"Mover Arriba\", command=move_column_up)\nmove_up_button.grid(row=3, column=0, pady=5)\nmove_down_button = tk.Button(button_frame, text=\"Mover Abajo\", command=move_column_down)\nmove_down_button.grid(row=4, column=0, pady=5)\nundo_button = tk.Button(button_frame, text=\"Deshacer\", command=undo)\nundo_button.grid(row=5, column=0, pady=5)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "rename_button_combined",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "rename_button_combined = tk.Button(button_frame, text=\"Renombrar Columna\", command=rename_column)\nrename_button_combined.grid(row=2, column=0, pady=5)\nmove_up_button = tk.Button(button_frame, text=\"Mover Arriba\", command=move_column_up)\nmove_up_button.grid(row=3, column=0, pady=5)\nmove_down_button = tk.Button(button_frame, text=\"Mover Abajo\", command=move_column_down)\nmove_down_button.grid(row=4, column=0, pady=5)\nundo_button = tk.Button(button_frame, text=\"Deshacer\", command=undo)\nundo_button.grid(row=5, column=0, pady=5)\nredo_button = tk.Button(button_frame, text=\"Rehacer\", command=redo)\nredo_button.grid(row=6, column=0, pady=5)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "move_up_button",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "move_up_button = tk.Button(button_frame, text=\"Mover Arriba\", command=move_column_up)\nmove_up_button.grid(row=3, column=0, pady=5)\nmove_down_button = tk.Button(button_frame, text=\"Mover Abajo\", command=move_column_down)\nmove_down_button.grid(row=4, column=0, pady=5)\nundo_button = tk.Button(button_frame, text=\"Deshacer\", command=undo)\nundo_button.grid(row=5, column=0, pady=5)\nredo_button = tk.Button(button_frame, text=\"Rehacer\", command=redo)\nredo_button.grid(row=6, column=0, pady=5)\nabout_button = ttk.Button(button_frame, text=\"ABOUT\", command=open_about_window)\nabout_button.grid(row=10, column=0,pady=10)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "move_down_button",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "move_down_button = tk.Button(button_frame, text=\"Mover Abajo\", command=move_column_down)\nmove_down_button.grid(row=4, column=0, pady=5)\nundo_button = tk.Button(button_frame, text=\"Deshacer\", command=undo)\nundo_button.grid(row=5, column=0, pady=5)\nredo_button = tk.Button(button_frame, text=\"Rehacer\", command=redo)\nredo_button.grid(row=6, column=0, pady=5)\nabout_button = ttk.Button(button_frame, text=\"ABOUT\", command=open_about_window)\nabout_button.grid(row=10, column=0,pady=10)\n# Submit and Reset buttons below combined list\nsubmit_button = tk.Button(window, text=\"Submit File\", command=lambda: procesar_csv(full_path_file1, [columns1[i] for i in listbox1.curselection()], full_path_file2, [columns2[i] for i in listbox2.curselection()]))",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "undo_button",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "undo_button = tk.Button(button_frame, text=\"Deshacer\", command=undo)\nundo_button.grid(row=5, column=0, pady=5)\nredo_button = tk.Button(button_frame, text=\"Rehacer\", command=redo)\nredo_button.grid(row=6, column=0, pady=5)\nabout_button = ttk.Button(button_frame, text=\"ABOUT\", command=open_about_window)\nabout_button.grid(row=10, column=0,pady=10)\n# Submit and Reset buttons below combined list\nsubmit_button = tk.Button(window, text=\"Submit File\", command=lambda: procesar_csv(full_path_file1, [columns1[i] for i in listbox1.curselection()], full_path_file2, [columns2[i] for i in listbox2.curselection()]))\nsubmit_button.grid(row=2, column=3, pady=5)\n# Console display box",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "redo_button",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "redo_button = tk.Button(button_frame, text=\"Rehacer\", command=redo)\nredo_button.grid(row=6, column=0, pady=5)\nabout_button = ttk.Button(button_frame, text=\"ABOUT\", command=open_about_window)\nabout_button.grid(row=10, column=0,pady=10)\n# Submit and Reset buttons below combined list\nsubmit_button = tk.Button(window, text=\"Submit File\", command=lambda: procesar_csv(full_path_file1, [columns1[i] for i in listbox1.curselection()], full_path_file2, [columns2[i] for i in listbox2.curselection()]))\nsubmit_button.grid(row=2, column=3, pady=5)\n# Console display box\nconsole_display = scrolledtext.ScrolledText(window, wrap=tk.WORD, height=10, width=80)\nconsole_display.grid(row=7, column=0, columnspan=5, padx=10, pady=10)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "about_button",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "about_button = ttk.Button(button_frame, text=\"ABOUT\", command=open_about_window)\nabout_button.grid(row=10, column=0,pady=10)\n# Submit and Reset buttons below combined list\nsubmit_button = tk.Button(window, text=\"Submit File\", command=lambda: procesar_csv(full_path_file1, [columns1[i] for i in listbox1.curselection()], full_path_file2, [columns2[i] for i in listbox2.curselection()]))\nsubmit_button.grid(row=2, column=3, pady=5)\n# Console display box\nconsole_display = scrolledtext.ScrolledText(window, wrap=tk.WORD, height=10, width=80)\nconsole_display.grid(row=7, column=0, columnspan=5, padx=10, pady=10)\n# Redirect stdout to the console display\nclass ConsoleRedirect:",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "submit_button",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "submit_button = tk.Button(window, text=\"Submit File\", command=lambda: procesar_csv(full_path_file1, [columns1[i] for i in listbox1.curselection()], full_path_file2, [columns2[i] for i in listbox2.curselection()]))\nsubmit_button.grid(row=2, column=3, pady=5)\n# Console display box\nconsole_display = scrolledtext.ScrolledText(window, wrap=tk.WORD, height=10, width=80)\nconsole_display.grid(row=7, column=0, columnspan=5, padx=10, pady=10)\n# Redirect stdout to the console display\nclass ConsoleRedirect:\n    def __init__(self, widget):\n        self.widget = widget\n    def write(self, text):",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "console_display",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "console_display = scrolledtext.ScrolledText(window, wrap=tk.WORD, height=10, width=80)\nconsole_display.grid(row=7, column=0, columnspan=5, padx=10, pady=10)\n# Redirect stdout to the console display\nclass ConsoleRedirect:\n    def __init__(self, widget):\n        self.widget = widget\n    def write(self, text):\n        self.widget.insert(tk.END, text)\n        self.widget.see(tk.END)\n    def flush(self):",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stdout",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "sys.stdout = ConsoleRedirect(console_display)\nsys.stderr = ConsoleRedirect(console_display)\n# Set to keep track of opened files\nopened_files = set()\n# Function to confirm and open the file\ndef confirm_and_open_file(file_path):\n    if os.path.exists(file_path):\n        if file_path in opened_files:\n            messagebox.showinfo(\"File Already Open\", \"This file is already open.\")\n        else:",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stderr",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "sys.stderr = ConsoleRedirect(console_display)\n# Set to keep track of opened files\nopened_files = set()\n# Function to confirm and open the file\ndef confirm_and_open_file(file_path):\n    if os.path.exists(file_path):\n        if file_path in opened_files:\n            messagebox.showinfo(\"File Already Open\", \"This file is already open.\")\n        else:\n            if messagebox.askyesno(\"Open File\", \"Are you sure you want to open this file?\"):",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "opened_files",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "opened_files = set()\n# Function to confirm and open the file\ndef confirm_and_open_file(file_path):\n    if os.path.exists(file_path):\n        if file_path in opened_files:\n            messagebox.showinfo(\"File Already Open\", \"This file is already open.\")\n        else:\n            if messagebox.askyesno(\"Open File\", \"Are you sure you want to open this file?\"):\n                try:\n                    os.startfile(file_path)",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "open_file_button1",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "open_file_button1 = tk.Button(window, text=\"Open File 1\", command=lambda: confirm_and_open_file(full_path_file1))\nopen_file_button1.grid(row=5, column=1, pady=5)\nopen_file_button2 = tk.Button(window, text=\"Open File 2\", command=lambda: confirm_and_open_file(full_path_file2))\nopen_file_button2.grid(row=5, column=2, pady=5)\nstatus_label = tk.Label(window, text=\"\")\nstatus_label.grid(row=10, column=0, pady=10)\ncolumns1 = []\ncolumns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "open_file_button2",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "open_file_button2 = tk.Button(window, text=\"Open File 2\", command=lambda: confirm_and_open_file(full_path_file2))\nopen_file_button2.grid(row=5, column=2, pady=5)\nstatus_label = tk.Label(window, text=\"\")\nstatus_label.grid(row=10, column=0, pady=10)\ncolumns1 = []\ncolumns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "status_label",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "status_label = tk.Label(window, text=\"\")\nstatus_label.grid(row=10, column=0, pady=10)\ncolumns1 = []\ncolumns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "columns1",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "columns1 = []\ncolumns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "columns2",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v1.5",
+        "description": "source codes.editor2n1-v1.5",
+        "peekOfCode": "columns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v1.5",
+        "documentation": {}
+    },
+    {
+        "label": "save_state",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "def save_state():\n    # Save the current state of the combined listbox for undo functionality\n    state = combined_listbox.get(0, tk.END)\n    undo_stack.append(state)\n    redo_stack.clear()\ndef undo():\n    if undo_stack:\n        state = undo_stack.pop()\n        redo_stack.append(combined_listbox.get(0, tk.END))\n        combined_listbox.delete(0, tk.END)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "undo",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "def undo():\n    if undo_stack:\n        state = undo_stack.pop()\n        redo_stack.append(combined_listbox.get(0, tk.END))\n        combined_listbox.delete(0, tk.END)\n        for item in state:\n            combined_listbox.insert(tk.END, item)\ndef redo():\n    if redo_stack:\n        state = redo_stack.pop()",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "redo",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "def redo():\n    if redo_stack:\n        state = redo_stack.pop()\n        undo_stack.append(combined_listbox.get(0, tk.END))\n        combined_listbox.delete(0, tk.END)\n        for item in state:\n            combined_listbox.insert(tk.END, item)\ndef add_column_to_combined():\n    new_column = simpledialog.askstring(\"Agregar columna\", \"Ingrese el nombre de la nueva columna:\")\n    if new_column:",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "add_column_to_combined",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "def add_column_to_combined():\n    new_column = simpledialog.askstring(\"Agregar columna\", \"Ingrese el nombre de la nueva columna:\")\n    if new_column:\n        combined_listbox.insert(tk.END, new_column)\ndef procesar_csv(archivo_csv1, campos_a_extraer1, archivo_csv2, campos_a_extraer2):\n    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')\n    try:\n        logging.info(\"Validating file paths...\")\n        if not os.path.isfile(archivo_csv1):\n            raise FileNotFoundError(f\"El archivo CSV no existe: {archivo_csv1}\")",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "procesar_csv",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "def procesar_csv(archivo_csv1, campos_a_extraer1, archivo_csv2, campos_a_extraer2):\n    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')\n    try:\n        logging.info(\"Validating file paths...\")\n        if not os.path.isfile(archivo_csv1):\n            raise FileNotFoundError(f\"El archivo CSV no existe: {archivo_csv1}\")\n        if not os.path.isfile(archivo_csv2):\n            raise FileNotFoundError(f\"El archivo CSV no existe: {archivo_csv2}\")\n        logging.info(\"Reading CSV files...\")\n        df1 = pd.read_csv(archivo_csv1)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "select_file1",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "def select_file1():\n    file_path = filedialog.askopenfilename()\n    if file_path:\n        # Store the full file path in a global variable\n        global full_path_file1\n        full_path_file1 = file_path\n        # Display only the file name\n        path_label1.config(text=os.path.basename(file_path))\n        display_columns(file_path, listbox1, select_button1a, columns1)\ndef select_file2():",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "select_file2",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "def select_file2():\n    file_path = filedialog.askopenfilename()\n    if file_path:\n        # Store the full file path in a global variable\n        global full_path_file2\n        full_path_file2 = file_path\n        # Display only the file name\n        path_label2.config(text=os.path.basename(file_path))\n        display_columns(file_path, listbox2, select_button2a, columns2)\ndef display_columns(file_path, listbox, select_button, columns):",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "display_columns",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "def display_columns(file_path, listbox, select_button, columns):\n    df = pd.read_csv(file_path)\n    columns.clear()\n    columns.extend(list(df.columns))\n    def on_select():\n        try:\n            selected_indices = listbox.curselection()\n            if not selected_indices:\n                messagebox.showwarning(\"Advertencia\", \"Debe seleccionar al menos una columna.\")\n                return",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "delete_selected_column",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "def delete_selected_column():\n    try:\n        selected_index = combined_listbox.curselection()\n        if not selected_index:\n            messagebox.showwarning(\"Advertencia\", \"Debe seleccionar una columna para eliminar.\")\n            return\n        combined_listbox.delete(selected_index)\n    except Exception as e:\n        logging.error(f\"Se produjo un error inesperado: {e}\")\n        messagebox.showerror(\"Error\", f\"Se produjo un error inesperado: {e}\")",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "rename_column",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "def rename_column():\n    try:\n        selected_index = combined_listbox.curselection()\n        if not selected_index:\n            messagebox.showwarning(\"Advertencia\", \"Debe seleccionar una columna para renombrar.\")\n            return\n        new_name = simpledialog.askstring(\"Renombrar columna\", \"Ingrese el nuevo nombre de la columna:\")\n        if new_name:\n            combined_listbox.delete(selected_index)\n            combined_listbox.insert(selected_index, new_name)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "move_column_up",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "def move_column_up():\n    try:\n        selected_index = combined_listbox.curselection()\n        if not selected_index or selected_index[0] == 0:\n            return\n        index = selected_index[0]\n        column_value = combined_listbox.get(index)\n        combined_listbox.delete(index)\n        combined_listbox.insert(index - 1, column_value)\n        combined_listbox.select_set(index - 1)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "move_column_down",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "def move_column_down():\n    try:\n        selected_index = combined_listbox.curselection()\n        if not selected_index or selected_index[0] == combined_listbox.size() - 1:\n            return\n        index = selected_index[0]\n        column_value = combined_listbox.get(index)\n        combined_listbox.delete(index)\n        combined_listbox.insert(index + 1, column_value)\n        combined_listbox.select_set(index + 1)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "open_about_window",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "def open_about_window():\n    about_window = tk.Toplevel(window)\n    about_window.title(\"About\")\n    about_window.geometry(\"300x200\")\n    ttk.Label(about_window, text=\"CSV Editor\", font=(\"Helvetica\", 16)).pack(pady=10)\n    ttk.Label(about_window, text=\"Version 2.0\").pack(pady=5)\n    ttk.Label(about_window, text=\"Author: Jimmy Hernández Rivera\").pack(pady=5)\n    ttk.Label(about_window, text=\"A simple CSV editing tool.\").pack(pady=10)\n# Function to confirm and open the file----------------------------------------------------------\ndef confirm_and_open_file(file_path):",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "confirm_and_open_file",
+        "kind": 2,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "def confirm_and_open_file(file_path):\n    if os.path.exists(file_path):\n        if file_path in opened_files:\n            messagebox.showinfo(\"File Already Open\", \"This file is already open.\")\n        else:\n            if messagebox.askyesno(\"Open File\", \"Are you sure you want to open this file?\"):\n                try:\n                    os.startfile(file_path)\n                    opened_files.add(file_path)\n                except Exception as e:",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "undo_stack",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "undo_stack = []\nredo_stack = []\ncombined_listbox = []\ndef save_state():\n    # Save the current state of the combined listbox for undo functionality\n    state = combined_listbox.get(0, tk.END)\n    undo_stack.append(state)\n    redo_stack.clear()\ndef undo():\n    if undo_stack:",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "redo_stack",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "redo_stack = []\ncombined_listbox = []\ndef save_state():\n    # Save the current state of the combined listbox for undo functionality\n    state = combined_listbox.get(0, tk.END)\n    undo_stack.append(state)\n    redo_stack.clear()\ndef undo():\n    if undo_stack:\n        state = undo_stack.pop()",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "combined_listbox",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "combined_listbox = []\ndef save_state():\n    # Save the current state of the combined listbox for undo functionality\n    state = combined_listbox.get(0, tk.END)\n    undo_stack.append(state)\n    redo_stack.clear()\ndef undo():\n    if undo_stack:\n        state = undo_stack.pop()\n        redo_stack.append(combined_listbox.get(0, tk.END))",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "window = tk.Tk()\nwindow.geometry(\"800x600\")\nwindow.title(\"CSV EDITOR 2\")\nwindow.config(background=\"white\")\n# Centering the main window------------------------------------------------------------------------\nfor i in range(5):\n    window.grid_columnconfigure(i, weight=1)\nwindow.grid_rowconfigure(0, weight=1)\nwindow.grid_rowconfigure(10, weight=1)\n# Title------------------------------------------------------------------------------------------",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "title_label",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "title_label = ttk.Label(window, text=\"CSV Editor 2.0\", font=(\"Helvetica\", 16), background=\"white\")\ntitle_label.grid(row=0, column=0, columnspan=5, pady=10)\n# First file selection ---------------------------------------------------------------------------\nlistbox1 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox1.grid(row=1, column=1, padx=10, pady=5)\npath_label1 = ttk.Label(window, text=\"\")\npath_label1.grid(row=2, column=1, padx=10, pady=5)\nselect_button1 = ttk.Button(window, text=\"Select File 1\", command=select_file1)\nselect_button1.grid(row=3, column=1, padx=10, pady=10)\nselect_button1a = ttk.Button(window, text=\"Add Columns to new file\")",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "listbox1",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "listbox1 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox1.grid(row=1, column=1, padx=10, pady=5)\npath_label1 = ttk.Label(window, text=\"\")\npath_label1.grid(row=2, column=1, padx=10, pady=5)\nselect_button1 = ttk.Button(window, text=\"Select File 1\", command=select_file1)\nselect_button1.grid(row=3, column=1, padx=10, pady=10)\nselect_button1a = ttk.Button(window, text=\"Add Columns to new file\")\nselect_button1a.grid(row=4, column=1, padx=10, pady=5)\n# Second file selection ------------------------------------------------------------------------\nlistbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "path_label1",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "path_label1 = ttk.Label(window, text=\"\")\npath_label1.grid(row=2, column=1, padx=10, pady=5)\nselect_button1 = ttk.Button(window, text=\"Select File 1\", command=select_file1)\nselect_button1.grid(row=3, column=1, padx=10, pady=10)\nselect_button1a = ttk.Button(window, text=\"Add Columns to new file\")\nselect_button1a.grid(row=4, column=1, padx=10, pady=5)\n# Second file selection ------------------------------------------------------------------------\nlistbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox2.grid(row=1, column=2, padx=10, pady=5)\npath_label2 = ttk.Label(window, text=\"\")",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "select_button1",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "select_button1 = ttk.Button(window, text=\"Select File 1\", command=select_file1)\nselect_button1.grid(row=3, column=1, padx=10, pady=10)\nselect_button1a = ttk.Button(window, text=\"Add Columns to new file\")\nselect_button1a.grid(row=4, column=1, padx=10, pady=5)\n# Second file selection ------------------------------------------------------------------------\nlistbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox2.grid(row=1, column=2, padx=10, pady=5)\npath_label2 = ttk.Label(window, text=\"\")\npath_label2.grid(row=2, column=2, padx=10, pady=5)\nselect_button2 = ttk.Button(window, text=\"Select File 2\", command=select_file2)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "select_button1a",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "select_button1a = ttk.Button(window, text=\"Add Columns to new file\")\nselect_button1a.grid(row=4, column=1, padx=10, pady=5)\n# Second file selection ------------------------------------------------------------------------\nlistbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox2.grid(row=1, column=2, padx=10, pady=5)\npath_label2 = ttk.Label(window, text=\"\")\npath_label2.grid(row=2, column=2, padx=10, pady=5)\nselect_button2 = ttk.Button(window, text=\"Select File 2\", command=select_file2)\nselect_button2.grid(row=3, column=2, padx=10, pady=10)\nselect_button2a = ttk.Button(window, text=\"Add Columns to new file\")",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "listbox2",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "listbox2 = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox2.grid(row=1, column=2, padx=10, pady=5)\npath_label2 = ttk.Label(window, text=\"\")\npath_label2.grid(row=2, column=2, padx=10, pady=5)\nselect_button2 = ttk.Button(window, text=\"Select File 2\", command=select_file2)\nselect_button2.grid(row=3, column=2, padx=10, pady=10)\nselect_button2a = ttk.Button(window, text=\"Add Columns to new file\")\nselect_button2a.grid(row=4, column=2, padx=10, pady=5)\n# Combined columns display---------------------------------------------------------------------\ncombined_listbox = tk.Listbox(window)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "path_label2",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "path_label2 = ttk.Label(window, text=\"\")\npath_label2.grid(row=2, column=2, padx=10, pady=5)\nselect_button2 = ttk.Button(window, text=\"Select File 2\", command=select_file2)\nselect_button2.grid(row=3, column=2, padx=10, pady=10)\nselect_button2a = ttk.Button(window, text=\"Add Columns to new file\")\nselect_button2a.grid(row=4, column=2, padx=10, pady=5)\n# Combined columns display---------------------------------------------------------------------\ncombined_listbox = tk.Listbox(window)\ncombined_listbox.grid(row=1, column=3, padx=10, pady=10, sticky=\"ew\")\n# Submit and Reset buttons below combined list----------------------------------------------------",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "select_button2",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "select_button2 = ttk.Button(window, text=\"Select File 2\", command=select_file2)\nselect_button2.grid(row=3, column=2, padx=10, pady=10)\nselect_button2a = ttk.Button(window, text=\"Add Columns to new file\")\nselect_button2a.grid(row=4, column=2, padx=10, pady=5)\n# Combined columns display---------------------------------------------------------------------\ncombined_listbox = tk.Listbox(window)\ncombined_listbox.grid(row=1, column=3, padx=10, pady=10, sticky=\"ew\")\n# Submit and Reset buttons below combined list----------------------------------------------------\nsubmit_button = ttk.Button(window, text=\"Run\", command=lambda: procesar_csv(full_path_file1, [columns1[i] for i in listbox1.curselection()], full_path_file2, [columns2[i] for i in listbox2.curselection()]))\nsubmit_button.grid(row=3, column=3, pady=5)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "select_button2a",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "select_button2a = ttk.Button(window, text=\"Add Columns to new file\")\nselect_button2a.grid(row=4, column=2, padx=10, pady=5)\n# Combined columns display---------------------------------------------------------------------\ncombined_listbox = tk.Listbox(window)\ncombined_listbox.grid(row=1, column=3, padx=10, pady=10, sticky=\"ew\")\n# Submit and Reset buttons below combined list----------------------------------------------------\nsubmit_button = ttk.Button(window, text=\"Run\", command=lambda: procesar_csv(full_path_file1, [columns1[i] for i in listbox1.curselection()], full_path_file2, [columns2[i] for i in listbox2.curselection()]))\nsubmit_button.grid(row=3, column=3, pady=5)\n# Buttons on the right side--------------------------------------------------------------------\nbutton_frame = ttk.Frame(window)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "combined_listbox",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "combined_listbox = tk.Listbox(window)\ncombined_listbox.grid(row=1, column=3, padx=10, pady=10, sticky=\"ew\")\n# Submit and Reset buttons below combined list----------------------------------------------------\nsubmit_button = ttk.Button(window, text=\"Run\", command=lambda: procesar_csv(full_path_file1, [columns1[i] for i in listbox1.curselection()], full_path_file2, [columns2[i] for i in listbox2.curselection()]))\nsubmit_button.grid(row=3, column=3, pady=5)\n# Buttons on the right side--------------------------------------------------------------------\nbutton_frame = ttk.Frame(window)\nbutton_frame.grid(row=1, column=4, rowspan=8, padx=10, pady=10, sticky=\"ns\")\nadd_button_combined = ttk.Button(button_frame, text=\"ADD COLUMN\", command=add_column_to_combined)\nadd_button_combined.grid(row=0, column=0, pady=5)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "submit_button",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "submit_button = ttk.Button(window, text=\"Run\", command=lambda: procesar_csv(full_path_file1, [columns1[i] for i in listbox1.curselection()], full_path_file2, [columns2[i] for i in listbox2.curselection()]))\nsubmit_button.grid(row=3, column=3, pady=5)\n# Buttons on the right side--------------------------------------------------------------------\nbutton_frame = ttk.Frame(window)\nbutton_frame.grid(row=1, column=4, rowspan=8, padx=10, pady=10, sticky=\"ns\")\nadd_button_combined = ttk.Button(button_frame, text=\"ADD COLUMN\", command=add_column_to_combined)\nadd_button_combined.grid(row=0, column=0, pady=5)\ndelete_button_combined = ttk.Button(button_frame, text=\"DELETE COLUMN\", command=delete_selected_column)\ndelete_button_combined.grid(row=1, column=0, pady=5)\nrename_button_combined = ttk.Button(button_frame, text=\"RENAME COLUMN\", command=rename_column)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "button_frame",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "button_frame = ttk.Frame(window)\nbutton_frame.grid(row=1, column=4, rowspan=8, padx=10, pady=10, sticky=\"ns\")\nadd_button_combined = ttk.Button(button_frame, text=\"ADD COLUMN\", command=add_column_to_combined)\nadd_button_combined.grid(row=0, column=0, pady=5)\ndelete_button_combined = ttk.Button(button_frame, text=\"DELETE COLUMN\", command=delete_selected_column)\ndelete_button_combined.grid(row=1, column=0, pady=5)\nrename_button_combined = ttk.Button(button_frame, text=\"RENAME COLUMN\", command=rename_column)\nrename_button_combined.grid(row=2, column=0, pady=5)\nmove_up_button = ttk.Button(button_frame, text=\"MOVE UP\", command=move_column_up)\nmove_up_button.grid(row=3, column=0, pady=5)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "add_button_combined",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "add_button_combined = ttk.Button(button_frame, text=\"ADD COLUMN\", command=add_column_to_combined)\nadd_button_combined.grid(row=0, column=0, pady=5)\ndelete_button_combined = ttk.Button(button_frame, text=\"DELETE COLUMN\", command=delete_selected_column)\ndelete_button_combined.grid(row=1, column=0, pady=5)\nrename_button_combined = ttk.Button(button_frame, text=\"RENAME COLUMN\", command=rename_column)\nrename_button_combined.grid(row=2, column=0, pady=5)\nmove_up_button = ttk.Button(button_frame, text=\"MOVE UP\", command=move_column_up)\nmove_up_button.grid(row=3, column=0, pady=5)\nmove_down_button = ttk.Button(button_frame, text=\"MOVE DOWN\", command=move_column_down)\nmove_down_button.grid(row=4, column=0, pady=5)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "delete_button_combined",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "delete_button_combined = ttk.Button(button_frame, text=\"DELETE COLUMN\", command=delete_selected_column)\ndelete_button_combined.grid(row=1, column=0, pady=5)\nrename_button_combined = ttk.Button(button_frame, text=\"RENAME COLUMN\", command=rename_column)\nrename_button_combined.grid(row=2, column=0, pady=5)\nmove_up_button = ttk.Button(button_frame, text=\"MOVE UP\", command=move_column_up)\nmove_up_button.grid(row=3, column=0, pady=5)\nmove_down_button = ttk.Button(button_frame, text=\"MOVE DOWN\", command=move_column_down)\nmove_down_button.grid(row=4, column=0, pady=5)\nundo_button = ttk.Button(button_frame, text=\"UNDO\", command=undo)\nundo_button.grid(row=5, column=0, pady=5)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "rename_button_combined",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "rename_button_combined = ttk.Button(button_frame, text=\"RENAME COLUMN\", command=rename_column)\nrename_button_combined.grid(row=2, column=0, pady=5)\nmove_up_button = ttk.Button(button_frame, text=\"MOVE UP\", command=move_column_up)\nmove_up_button.grid(row=3, column=0, pady=5)\nmove_down_button = ttk.Button(button_frame, text=\"MOVE DOWN\", command=move_column_down)\nmove_down_button.grid(row=4, column=0, pady=5)\nundo_button = ttk.Button(button_frame, text=\"UNDO\", command=undo)\nundo_button.grid(row=5, column=0, pady=5)\nabout_button = ttk.Button(button_frame, text=\"ABOUT\", command=open_about_window)\nabout_button.grid(row=10, column=0,pady=10)",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "move_up_button",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "move_up_button = ttk.Button(button_frame, text=\"MOVE UP\", command=move_column_up)\nmove_up_button.grid(row=3, column=0, pady=5)\nmove_down_button = ttk.Button(button_frame, text=\"MOVE DOWN\", command=move_column_down)\nmove_down_button.grid(row=4, column=0, pady=5)\nundo_button = ttk.Button(button_frame, text=\"UNDO\", command=undo)\nundo_button.grid(row=5, column=0, pady=5)\nabout_button = ttk.Button(button_frame, text=\"ABOUT\", command=open_about_window)\nabout_button.grid(row=10, column=0,pady=10)\n# Open file buttons with confirmation----------------------------------------------------------\nopen_file_button1 = ttk.Button(window, text=\"Open File 1\", command=lambda: confirm_and_open_file(full_path_file1))",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "move_down_button",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "move_down_button = ttk.Button(button_frame, text=\"MOVE DOWN\", command=move_column_down)\nmove_down_button.grid(row=4, column=0, pady=5)\nundo_button = ttk.Button(button_frame, text=\"UNDO\", command=undo)\nundo_button.grid(row=5, column=0, pady=5)\nabout_button = ttk.Button(button_frame, text=\"ABOUT\", command=open_about_window)\nabout_button.grid(row=10, column=0,pady=10)\n# Open file buttons with confirmation----------------------------------------------------------\nopen_file_button1 = ttk.Button(window, text=\"Open File 1\", command=lambda: confirm_and_open_file(full_path_file1))\nopen_file_button1.grid(row=5, column=1, pady=5)\nopen_file_button2 = ttk.Button(window, text=\"Open File 2\", command=lambda: confirm_and_open_file(full_path_file2))",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "undo_button",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "undo_button = ttk.Button(button_frame, text=\"UNDO\", command=undo)\nundo_button.grid(row=5, column=0, pady=5)\nabout_button = ttk.Button(button_frame, text=\"ABOUT\", command=open_about_window)\nabout_button.grid(row=10, column=0,pady=10)\n# Open file buttons with confirmation----------------------------------------------------------\nopen_file_button1 = ttk.Button(window, text=\"Open File 1\", command=lambda: confirm_and_open_file(full_path_file1))\nopen_file_button1.grid(row=5, column=1, pady=5)\nopen_file_button2 = ttk.Button(window, text=\"Open File 2\", command=lambda: confirm_and_open_file(full_path_file2))\nopen_file_button2.grid(row=5, column=2, pady=5)\ncolumns1 = []",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "about_button",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "about_button = ttk.Button(button_frame, text=\"ABOUT\", command=open_about_window)\nabout_button.grid(row=10, column=0,pady=10)\n# Open file buttons with confirmation----------------------------------------------------------\nopen_file_button1 = ttk.Button(window, text=\"Open File 1\", command=lambda: confirm_and_open_file(full_path_file1))\nopen_file_button1.grid(row=5, column=1, pady=5)\nopen_file_button2 = ttk.Button(window, text=\"Open File 2\", command=lambda: confirm_and_open_file(full_path_file2))\nopen_file_button2.grid(row=5, column=2, pady=5)\ncolumns1 = []\ncolumns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "open_file_button1",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "open_file_button1 = ttk.Button(window, text=\"Open File 1\", command=lambda: confirm_and_open_file(full_path_file1))\nopen_file_button1.grid(row=5, column=1, pady=5)\nopen_file_button2 = ttk.Button(window, text=\"Open File 2\", command=lambda: confirm_and_open_file(full_path_file2))\nopen_file_button2.grid(row=5, column=2, pady=5)\ncolumns1 = []\ncolumns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "open_file_button2",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "open_file_button2 = ttk.Button(window, text=\"Open File 2\", command=lambda: confirm_and_open_file(full_path_file2))\nopen_file_button2.grid(row=5, column=2, pady=5)\ncolumns1 = []\ncolumns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "columns1",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "columns1 = []\ncolumns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "columns2",
+        "kind": 5,
+        "importPath": "source codes.editor2n1-v2.0",
+        "description": "source codes.editor2n1-v2.0",
+        "peekOfCode": "columns2 = []\nwindow.mainloop()",
+        "detail": "source codes.editor2n1-v2.0",
+        "documentation": {}
+    },
+    {
+        "label": "procesar_csv",
+        "kind": 2,
+        "importPath": "source codes.editor33",
+        "description": "source codes.editor33",
+        "peekOfCode": "def procesar_csv(archivo_csv, campos_a_extraer):\n    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')\n    try:\n        df = pd.read_csv(archivo_csv)\n        if df.empty:\n            raise ValueError(\"El archivo CSV está vacío.\")\n        campos_inexistentes = set(campos_a_extraer) - set(df.columns)\n        if campos_inexistentes:\n            crear_columnas = messagebox.askyesno(\"Campos inexistentes\", f\"Los siguientes campos no existen: {campos_inexistentes}. ¿Desea crearlos?\")\n            if crear_columnas:",
+        "detail": "source codes.editor33",
+        "documentation": {}
+    },
+    {
+        "label": "reset_gui",
+        "kind": 2,
+        "importPath": "source codes.editor33",
+        "description": "source codes.editor33",
+        "peekOfCode": "def reset_gui():\n    for widget in root.winfo_children():\n        widget.destroy()\n    create_main_gui()\ndef create_main_gui():\n    global root\n    root = tk.Tk()\n    root.title(\"Procesador de CSV\")\n    root.geometry(\"400x300\")\n    root.configure(bg=\"#f0f0f0\")",
+        "detail": "source codes.editor33",
+        "documentation": {}
+    },
+    {
+        "label": "create_main_gui",
+        "kind": 2,
+        "importPath": "source codes.editor33",
+        "description": "source codes.editor33",
+        "peekOfCode": "def create_main_gui():\n    global root\n    root = tk.Tk()\n    root.title(\"Procesador de CSV\")\n    root.geometry(\"400x300\")\n    root.configure(bg=\"#f0f0f0\")\n    frame = ttk.Frame(root, padding=\"10\")\n    frame.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))\n    select_button = ttk.Button(frame, text=\"Seleccionar Archivo CSV\", command=select_file)\n    select_button.grid(row=0, column=0, pady=10, padx=10)",
+        "detail": "source codes.editor33",
+        "documentation": {}
+    },
+    {
+        "label": "select_file",
+        "kind": 2,
+        "importPath": "source codes.editor33",
+        "description": "source codes.editor33",
+        "peekOfCode": "def select_file():\n    file_path = filedialog.askopenfilename(filetypes=[(\"CSV files\", \"*.csv\")])\n    if file_path:\n        path_label.config(text=file_path)\ndef process_file():\n    file_path = path_label.cget(\"text\")\n    if file_path:\n        campos_a_extraer = simpledialog.askstring(\"Campos a extraer\", \"Ingrese los nombres de las columnas a extraer, separados por comas:\")\n        if campos_a_extraer:\n            campos_a_extraer_list = [campo.strip() for campo in campos_a_extraer.split(\",\")]",
+        "detail": "source codes.editor33",
+        "documentation": {}
+    },
+    {
+        "label": "process_file",
+        "kind": 2,
+        "importPath": "source codes.editor33",
+        "description": "source codes.editor33",
+        "peekOfCode": "def process_file():\n    file_path = path_label.cget(\"text\")\n    if file_path:\n        campos_a_extraer = simpledialog.askstring(\"Campos a extraer\", \"Ingrese los nombres de las columnas a extraer, separados por comas:\")\n        if campos_a_extraer:\n            campos_a_extraer_list = [campo.strip() for campo in campos_a_extraer.split(\",\")]\n            procesar_csv(file_path, campos_a_extraer_list)\ncreate_main_gui()\nroot.mainloop()",
+        "detail": "source codes.editor33",
+        "documentation": {}
+    },
+    {
+        "label": "procesar_csv",
+        "kind": 2,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "def procesar_csv(archivo_csv, campos_a_extraer):\n    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')\n    try:\n        # Validate file path\n        if not os.path.isfile(archivo_csv):\n            raise FileNotFoundError(f\"El archivo CSV no existe: {archivo_csv}\")\n        df = pd.read_csv(archivo_csv)\n        if df.empty:\n            raise ValueError(\"El archivo CSV está vacío.\")\n        campos_inexistentes = set(campos_a_extraer) - set(df.columns)",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "select_file",
+        "kind": 2,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "def select_file():\n    file_path = filedialog.askopenfilename()\n    if file_path:\n        path_label.config(text=file_path)\n        display_columns(file_path)\ndef display_columns(file_path):\n    df = pd.read_csv(file_path)\n    columns = list(df.columns)\n    def on_select():\n        try:",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "display_columns",
+        "kind": 2,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "def display_columns(file_path):\n    df = pd.read_csv(file_path)\n    columns = list(df.columns)\n    def on_select():\n        try:\n            selected_indices = listbox.curselection()\n            if not selected_indices:\n                messagebox.showwarning(\"Advertencia\", \"Debe seleccionar al menos una columna.\")\n                return\n            selected_columns = [columns[i] for i in selected_indices if i < len(columns)]",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "submit_file",
+        "kind": 2,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "def submit_file():\n    file_path = path_label.cget(\"text\")\n    if file_path:\n        display_columns(file_path)\ndef reset_fields():\n    path_label.config(text=\"\")\n    listbox.delete(0, tk.END)\n    status_label.config(text=\"\")\n    progress_bar['value'] = 0\nwindow = tk.Tk()",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "reset_fields",
+        "kind": 2,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "def reset_fields():\n    path_label.config(text=\"\")\n    listbox.delete(0, tk.END)\n    status_label.config(text=\"\")\n    progress_bar['value'] = 0\nwindow = tk.Tk()\nwindow.geometry(\"500x600\")\nwindow.title(\"CSV EDITOR\")\nwindow.config(background=\"white\")\nlabel_principal = tk.Label(window, text=\"Newtron's CSV Editor\", font=('Ink Free', 20, 'bold'), fg='black', bg='white', relief=tk.RAISED, bd=10, padx=20, pady=20)",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "window = tk.Tk()\nwindow.geometry(\"500x600\")\nwindow.title(\"CSV EDITOR\")\nwindow.config(background=\"white\")\nlabel_principal = tk.Label(window, text=\"Newtron's CSV Editor\", font=('Ink Free', 20, 'bold'), fg='black', bg='white', relief=tk.RAISED, bd=10, padx=20, pady=20)\nlabel_principal.pack()\nselect_button = tk.Button(window, text=\"Select File\", command=select_file)\nselect_button.pack(pady=10)\npath_label = tk.Label(window, text=\"\")\npath_label.pack(pady=10)",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "label_principal",
+        "kind": 5,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "label_principal = tk.Label(window, text=\"Newtron's CSV Editor\", font=('Ink Free', 20, 'bold'), fg='black', bg='white', relief=tk.RAISED, bd=10, padx=20, pady=20)\nlabel_principal.pack()\nselect_button = tk.Button(window, text=\"Select File\", command=select_file)\nselect_button.pack(pady=10)\npath_label = tk.Label(window, text=\"\")\npath_label.pack(pady=10)\nlistbox = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox.pack(pady=10)\nadd_button = tk.Button(window, text=\"Agregar Columna\")\nadd_button.pack(pady=10)",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "select_button",
+        "kind": 5,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "select_button = tk.Button(window, text=\"Select File\", command=select_file)\nselect_button.pack(pady=10)\npath_label = tk.Label(window, text=\"\")\npath_label.pack(pady=10)\nlistbox = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox.pack(pady=10)\nadd_button = tk.Button(window, text=\"Agregar Columna\")\nadd_button.pack(pady=10)\n#submit_button = tk.Button(window, text=\"Original List\", command=submit_file)\n#submit_button.pack(pady=10)",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "path_label",
+        "kind": 5,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "path_label = tk.Label(window, text=\"\")\npath_label.pack(pady=10)\nlistbox = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox.pack(pady=10)\nadd_button = tk.Button(window, text=\"Agregar Columna\")\nadd_button.pack(pady=10)\n#submit_button = tk.Button(window, text=\"Original List\", command=submit_file)\n#submit_button.pack(pady=10)\nselect_button = tk.Button(window, text=\"Run\")\nselect_button.pack(pady=10)",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "listbox",
+        "kind": 5,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "listbox = tk.Listbox(window, selectmode=tk.MULTIPLE)\nlistbox.pack(pady=10)\nadd_button = tk.Button(window, text=\"Agregar Columna\")\nadd_button.pack(pady=10)\n#submit_button = tk.Button(window, text=\"Original List\", command=submit_file)\n#submit_button.pack(pady=10)\nselect_button = tk.Button(window, text=\"Run\")\nselect_button.pack(pady=10)\nreset_button = tk.Button(window, text=\"Reset\", command=reset_fields)\nreset_button.pack(pady=10)",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "add_button",
+        "kind": 5,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "add_button = tk.Button(window, text=\"Agregar Columna\")\nadd_button.pack(pady=10)\n#submit_button = tk.Button(window, text=\"Original List\", command=submit_file)\n#submit_button.pack(pady=10)\nselect_button = tk.Button(window, text=\"Run\")\nselect_button.pack(pady=10)\nreset_button = tk.Button(window, text=\"Reset\", command=reset_fields)\nreset_button.pack(pady=10)\nstatus_label = tk.Label(window, text=\"\")\nstatus_label.pack(pady=10)",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "#submit_button",
+        "kind": 5,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "#submit_button = tk.Button(window, text=\"Original List\", command=submit_file)\n#submit_button.pack(pady=10)\nselect_button = tk.Button(window, text=\"Run\")\nselect_button.pack(pady=10)\nreset_button = tk.Button(window, text=\"Reset\", command=reset_fields)\nreset_button.pack(pady=10)\nstatus_label = tk.Label(window, text=\"\")\nstatus_label.pack(pady=10)\nprogress_bar = ttk.Progressbar(window, orient=\"horizontal\", length=300, mode=\"determinate\")\nprogress_bar.pack(pady=10)",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "select_button",
+        "kind": 5,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "select_button = tk.Button(window, text=\"Run\")\nselect_button.pack(pady=10)\nreset_button = tk.Button(window, text=\"Reset\", command=reset_fields)\nreset_button.pack(pady=10)\nstatus_label = tk.Label(window, text=\"\")\nstatus_label.pack(pady=10)\nprogress_bar = ttk.Progressbar(window, orient=\"horizontal\", length=300, mode=\"determinate\")\nprogress_bar.pack(pady=10)\nwindow.mainloop()",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "reset_button",
+        "kind": 5,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "reset_button = tk.Button(window, text=\"Reset\", command=reset_fields)\nreset_button.pack(pady=10)\nstatus_label = tk.Label(window, text=\"\")\nstatus_label.pack(pady=10)\nprogress_bar = ttk.Progressbar(window, orient=\"horizontal\", length=300, mode=\"determinate\")\nprogress_bar.pack(pady=10)\nwindow.mainloop()",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "status_label",
+        "kind": 5,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "status_label = tk.Label(window, text=\"\")\nstatus_label.pack(pady=10)\nprogress_bar = ttk.Progressbar(window, orient=\"horizontal\", length=300, mode=\"determinate\")\nprogress_bar.pack(pady=10)\nwindow.mainloop()",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "progress_bar",
+        "kind": 5,
+        "importPath": "source codes.editorGeneral",
+        "description": "source codes.editorGeneral",
+        "peekOfCode": "progress_bar = ttk.Progressbar(window, orient=\"horizontal\", length=300, mode=\"determinate\")\nprogress_bar.pack(pady=10)\nwindow.mainloop()",
+        "detail": "source codes.editorGeneral",
+        "documentation": {}
+    },
+    {
+        "label": "MainApp",
+        "kind": 6,
+        "importPath": "source codes.editor_csv10",
+        "description": "source codes.editor_csv10",
+        "peekOfCode": "class MainApp:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"Main Application\")\n        self.root.geometry(\"400x200\")\n        self.create_widgets()\n    def create_widgets(self):\n        ttk.Label(self.root, text=\"Choose an Application\", font=(\"Helvetica\", 14)).pack(pady=20)\n        ttk.Button(self.root, text=\"CSV Column Selector\", command=self.open_csv_column_selector).pack(pady=10)\n        # Add more buttons here for other apps",
+        "detail": "source codes.editor_csv10",
+        "documentation": {}
+    },
+    {
+        "label": "CSVColumnSelector",
+        "kind": 6,
+        "importPath": "source codes.editor_csv10",
+        "description": "source codes.editor_csv10",
+        "peekOfCode": "class CSVColumnSelector:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"CSV Column Selector\")\n        self.root.geometry(\"600x300\")\n        self.file_path = tk.StringVar()\n        self.df = None\n        self.column_vars = {}\n        self.setup_styles()\n        self.create_widgets()",
+        "detail": "source codes.editor_csv10",
+        "documentation": {}
+    },
+    {
+        "label": "CsvMerger",
+        "kind": 6,
+        "importPath": "source codes.editor_csv4",
+        "description": "source codes.editor_csv4",
+        "peekOfCode": "class CsvMerger:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"CSV Merger\")\n        # Create labels and input fields for file paths\n        self.file1_label = tk.Label(root, text=\"Select first CSV file:\")\n        self.file1_label.pack(pady=5)\n        self.file1_path = tk.StringVar()\n        self.file1_entry = tk.Entry(root, textvariable=self.file1_path, width=50)\n        self.file1_entry.pack(pady=5)",
+        "detail": "source codes.editor_csv4",
+        "documentation": {}
+    },
+    {
+        "label": "CSVColumnSelector",
+        "kind": 6,
+        "importPath": "source codes.editor_csv5",
+        "description": "source codes.editor_csv5",
+        "peekOfCode": "class CSVColumnSelector:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"CSV Column Selector\")\n        self.root.geometry(\"600x400\")\n        self.file1_path = tk.StringVar()\n        self.file2_path = tk.StringVar()\n        self.output_path = tk.StringVar()\n        self.style = ttk.Style()\n        self.style.theme_use('clam')  # Use a modern theme",
+        "detail": "source codes.editor_csv5",
+        "documentation": {}
+    },
+    {
+        "label": "CSVColumnSelector",
+        "kind": 6,
+        "importPath": "source codes.editor_csv6",
+        "description": "source codes.editor_csv6",
+        "peekOfCode": "class CSVColumnSelector:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"CSV Column Selector\")\n        self.root.geometry(\"600x400\")\n        self.file1_path = tk.StringVar()\n        self.file2_path = tk.StringVar()\n        self.output_path = tk.StringVar()\n        self.style = ttk.Style()\n        self.style.theme_use('clam')  # Use a modern theme",
+        "detail": "source codes.editor_csv6",
+        "documentation": {}
+    },
+    {
+        "label": "CSVColumnSelector",
+        "kind": 6,
+        "importPath": "source codes.editor_csv7",
+        "description": "source codes.editor_csv7",
+        "peekOfCode": "class CSVColumnSelector:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"CSV Column Selector\")\n        self.root.geometry(\"600x400\")\n        self.file1_path = tk.StringVar()\n        self.file2_path = tk.StringVar()\n        self.output_path = tk.StringVar()\n        self.style = ttk.Style()\n        self.style.theme_use('clam')  # Use a modern theme",
+        "detail": "source codes.editor_csv7",
+        "documentation": {}
+    },
+    {
+        "label": "CSVColumnSelector",
+        "kind": 6,
+        "importPath": "source codes.editor_csv8",
+        "description": "source codes.editor_csv8",
+        "peekOfCode": "class CSVColumnSelector:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"CSV Column Selector\")\n        self.root.geometry(\"600x400\")\n        self.file1_path = tk.StringVar()\n        self.file2_path = tk.StringVar()\n        self.output_path = tk.StringVar()\n        self.style = ttk.Style()\n        self.style.theme_use('clam')  # Use a modern theme",
+        "detail": "source codes.editor_csv8",
+        "documentation": {}
+    },
+    {
+        "label": "CSVColumnSelector",
+        "kind": 6,
+        "importPath": "source codes.editor_csv9",
+        "description": "source codes.editor_csv9",
+        "peekOfCode": "class CSVColumnSelector:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"CSV Column Selector\")\n        self.root.geometry(\"600x300\")\n        self.file1_path = tk.StringVar()\n        self.file2_path = tk.StringVar()\n        self.output_path = tk.StringVar()\n        self.style = ttk.Style()\n        self.style.theme_use('clam')  # Use a modern theme",
+        "detail": "source codes.editor_csv9",
+        "documentation": {}
+    },
+    {
+        "label": "CSVColumnSelector",
+        "kind": 6,
+        "importPath": "source codes.editor_csv9_single",
+        "description": "source codes.editor_csv9_single",
+        "peekOfCode": "class CSVColumnSelector:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"CSV Column Selector\")\n        self.root.geometry(\"600x300\")\n        self.file_path = tk.StringVar()\n        self.df = None\n        self.column_vars = {}\n        self.setup_styles()\n        self.create_widgets()",
+        "detail": "source codes.editor_csv9_single",
+        "documentation": {}
+    },
+    {
+        "label": "click",
+        "kind": 2,
+        "importPath": "source codes.menu",
+        "description": "source codes.menu",
+        "peekOfCode": "def click():\n    global count\n    count+=1\n    label.config(text=count)\n# The code snippet `window = Tk()` creates a new window for the GUI application using the Tkinter\n# library in Python.\nwindow = Tk()\nwindow.geometry(\"500x500\")\nwindow.title(\"CSV EDITOR\")\nwindow.config(background=\"white\")",
+        "detail": "source codes.menu",
+        "documentation": {}
+    },
+    {
+        "label": "window",
+        "kind": 5,
+        "importPath": "source codes.menu",
+        "description": "source codes.menu",
+        "peekOfCode": "window = Tk()\nwindow.geometry(\"500x500\")\nwindow.title(\"CSV EDITOR\")\nwindow.config(background=\"white\")\n# This code snippet is creating a Label widget in the GUI window. Here's a breakdown of what each\n# parameter in the Label widget configuration represents:\nlabel = Label(window,\ntext=\"Newtron's CSV Editor\",\nfont=('Ink Free', 20, 'bold'),\nfg='#fffb1f',",
+        "detail": "source codes.menu",
+        "documentation": {}
+    },
+    {
+        "label": "label",
+        "kind": 5,
+        "importPath": "source codes.menu",
+        "description": "source codes.menu",
+        "peekOfCode": "label = Label(window,\ntext=\"Newtron's CSV Editor\",\nfont=('Ink Free', 20, 'bold'),\nfg='#fffb1f',\nbg='#ff6200',\nrelief=RAISED, #para los bordes\nbd=10, # tamaño de los bordes\npadx=20,#espacion entre el borde del titulo y el titulo(x=horizontal)\npady=20,#espacion entre el borde del titulo y el titulo(y=veritcal)\n)",
+        "detail": "source codes.menu",
+        "documentation": {}
+    },
+    {
+        "label": "button",
+        "kind": 5,
+        "importPath": "source codes.menu",
+        "description": "source codes.menu",
+        "peekOfCode": "button = Button(window,text='Guardar')\nbutton.config(command=click)\nbutton.config(font=('Ink Free',15,'bold'))\nbutton.config(bg='#ff6200')\nbutton.config(fg='#fffb1f')\nlabel = Label(window,text=count)\nlabel.pack()\nbutton.pack()\nwindow.mainloop()",
+        "detail": "source codes.menu",
+        "documentation": {}
+    },
+    {
+        "label": "label",
+        "kind": 5,
+        "importPath": "source codes.menu",
+        "description": "source codes.menu",
+        "peekOfCode": "label = Label(window,text=count)\nlabel.pack()\nbutton.pack()\nwindow.mainloop()",
+        "detail": "source codes.menu",
+        "documentation": {}
+    },
+    {
+        "label": "procesar_datos",
+        "kind": 2,
+        "importPath": "source codes.tinker",
+        "description": "source codes.tinker",
+        "peekOfCode": "def procesar_datos():\n    # Obtener el valor ingresado en el campo de texto\n    nombre_archivo = entrada_archivo.get()\n    # ... resto de tu código ...\nventana = tk.Tk()\nventana.title(\"Procesador de CSV\")\netiqueta_archivo = tk.Label(ventana, text=\"Ingrese el nombre del archivo CSV:\")\netiqueta_archivo.pack()\nentrada_archivo = tk.Entry(ventana)\nentrada_archivo.pack()",
+        "detail": "source codes.tinker",
+        "documentation": {}
+    },
+    {
+        "label": "ventana",
+        "kind": 5,
+        "importPath": "source codes.tinker",
+        "description": "source codes.tinker",
+        "peekOfCode": "ventana = tk.Tk()\nventana.title(\"Procesador de CSV\")\netiqueta_archivo = tk.Label(ventana, text=\"Ingrese el nombre del archivo CSV:\")\netiqueta_archivo.pack()\nentrada_archivo = tk.Entry(ventana)\nentrada_archivo.pack()\nboton_procesar = tk.Button(ventana, text=\"Procesar\", command=procesar_datos)\nboton_procesar.pack()\nventana.mainloop()",
+        "detail": "source codes.tinker",
+        "documentation": {}
+    },
+    {
+        "label": "etiqueta_archivo",
+        "kind": 5,
+        "importPath": "source codes.tinker",
+        "description": "source codes.tinker",
+        "peekOfCode": "etiqueta_archivo = tk.Label(ventana, text=\"Ingrese el nombre del archivo CSV:\")\netiqueta_archivo.pack()\nentrada_archivo = tk.Entry(ventana)\nentrada_archivo.pack()\nboton_procesar = tk.Button(ventana, text=\"Procesar\", command=procesar_datos)\nboton_procesar.pack()\nventana.mainloop()",
+        "detail": "source codes.tinker",
+        "documentation": {}
+    },
+    {
+        "label": "entrada_archivo",
+        "kind": 5,
+        "importPath": "source codes.tinker",
+        "description": "source codes.tinker",
+        "peekOfCode": "entrada_archivo = tk.Entry(ventana)\nentrada_archivo.pack()\nboton_procesar = tk.Button(ventana, text=\"Procesar\", command=procesar_datos)\nboton_procesar.pack()\nventana.mainloop()",
+        "detail": "source codes.tinker",
+        "documentation": {}
+    },
+    {
+        "label": "boton_procesar",
+        "kind": 5,
+        "importPath": "source codes.tinker",
+        "description": "source codes.tinker",
+        "peekOfCode": "boton_procesar = tk.Button(ventana, text=\"Procesar\", command=procesar_datos)\nboton_procesar.pack()\nventana.mainloop()",
+        "detail": "source codes.tinker",
+        "documentation": {}
+    }
+]
