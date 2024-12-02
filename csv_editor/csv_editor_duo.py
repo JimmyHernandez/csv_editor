@@ -1,8 +1,90 @@
-import csv_editor_duo
 import tkinter as tk
-from tkinter import ttk, simpledialog, messagebox, filedialog
+from tkinter import ttk, simpledialog, messagebox, filedialog, Menu
 import pandas as pd
 from tabulate import tabulate
+from time import strftime 
+
+class MainApp:
+    def __init__(self, root):
+        self.root = root
+        self.root.title("Newtron Solutions")
+        self.root.geometry("650x350")
+        #self.root.configure(bg='#00a5b5') 
+        self.create_widgets()
+
+    def create_widgets(self):
+        file_frame2 = ttk.Frame(self.root)
+        file_frame2.pack(padx=10, pady=35)
+        text_var = tk.StringVar()
+        text_var.set("CSV EDITOR")
+        label = tk.Label(file_frame2,
+                textvariable=text_var, 
+                 #bg="#00a5b5",      
+                 height=3,              
+                 width=20,              
+                 bd=3,                  
+                 font=("Arial", 20), 
+                 cursor="hand2",   
+                 fg="Black",             
+                 padx=15,               
+                 pady=15,                
+                 justify=tk.CENTER,    
+                 relief=tk.RAISED,     
+                 underline=0,           
+                 wraplength=250         
+                )
+        label.pack(pady=20) 
+        button = ttk.Button(file_frame2, text="Open CSV- Dual Editor", command=self.open_csv_dual_editor)
+        button.pack(pady=10)
+        button.configure(style="TButton")
+
+        # Apply the same background color to ttk widgets
+        style1 = ttk.Style()
+        #style1.configure("TButton", background='#00a5b5')
+        style1.configure("TButton", font=("Arial", 14))
+        #style1.configure("TFrame", background='#00a5b5')
+        
+        # Creating Menubar 
+        menubar = Menu(self.root) 
+        
+        # Adding File Menu and commands 
+        file = Menu(menubar, tearoff = 0) 
+        menubar.add_cascade(label ='File', menu = file) 
+        #file.add_command(label ='New File', command = None) 
+        #file.add_command(label ='Open...', command = None) 
+        #file.add_command(label ='Save', command = None) 
+        file.add_separator() 
+        file.add_command(label ='Exit', command = self.root.destroy) 
+        
+        # Adding Edit Menu and commands 
+        #edit = Menu(menubar, tearoff = 0) 
+        #menubar.add_cascade(label ='Edit', menu = edit) 
+        #edit.add_command(label ='Cut', command = None) 
+        #edit.add_command(label ='Copy', command = None) 
+        #edit.add_command(label ='Paste', command = None) 
+        #edit.add_command(label ='Select All', command = None) 
+        #edit.add_separator() 
+        #edit.add_command(label ='Find...', command = None) 
+        #edit.add_command(label ='Find again', command = None) 
+        
+        # Adding Help Menu 
+        help_ = Menu(menubar, tearoff = 0) 
+        menubar.add_cascade(label ='Help', menu = help_) 
+        help_.add_command(label ='Intrucciones', command = None) 
+        help_.add_separator() 
+        help_.add_command(label ='About CSV Editor', command = None) 
+
+        self.root.config(menu = menubar) 
+
+
+    def open_csv_dual_editor(self):
+        self.root.withdraw()  # Hide the main window
+        editor_window = tk.Toplevel(self.root)
+        #editor_window.configure(bg='#00a5b5')
+        CSVEditorDuo(editor_window, self.show_main_window)  # Pass the function to show the main window
+
+    def show_main_window(self):
+        self.root.deiconify()
 
 class CSVEditorDuo:
     def __init__(self, root):
@@ -196,8 +278,10 @@ class CSVEditorDuo:
         except Exception as e:
             messagebox.showerror("Error", f"An error occurred while saving the file: {e}")
 
-
-if __name__ == "__main__":
+def main():
     root = tk.Tk()
-    app = CSVEditorDuo(root)
+    app = MainApp(root)
     root.mainloop()
+    
+if __name__ == "__main__":
+    main()

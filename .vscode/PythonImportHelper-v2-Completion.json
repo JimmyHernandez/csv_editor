@@ -1,22 +1,5 @@
 [
     {
-        "label": "csv_editor_duo",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "csv_editor_duo",
-        "description": "csv_editor_duo",
-        "detail": "csv_editor_duo",
-        "documentation": {}
-    },
-    {
-        "label": "CSVEditorDuo",
-        "importPath": "csv_editor_duo",
-        "description": "csv_editor_duo",
-        "isExtraImport": true,
-        "detail": "csv_editor_duo",
-        "documentation": {}
-    },
-    {
         "label": "tkinter",
         "kind": 6,
         "isExtraImport": true,
@@ -58,6 +41,14 @@
         "documentation": {}
     },
     {
+        "label": "Menu",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
         "label": "ttk",
         "importPath": "tkinter",
         "description": "tkinter",
@@ -91,6 +82,14 @@
     },
     {
         "label": "Menu",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
         "importPath": "tkinter",
         "description": "tkinter",
         "isExtraImport": true,
@@ -611,11 +610,45 @@
         "documentation": {}
     },
     {
+        "label": "strftime",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "chardet",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "chardet",
+        "description": "chardet",
+        "detail": "chardet",
+        "documentation": {}
+    },
+    {
         "label": "CSVEditorSingle",
         "importPath": "csv_editor_single",
         "description": "csv_editor_single",
         "isExtraImport": true,
         "detail": "csv_editor_single",
+        "documentation": {}
+    },
+    {
+        "label": "CSVEditorDuo",
+        "importPath": "csv_editor_duo",
+        "description": "csv_editor_duo",
+        "isExtraImport": true,
+        "detail": "csv_editor_duo",
         "documentation": {}
     },
     {
@@ -711,11 +744,29 @@
         "documentation": {}
     },
     {
+        "label": "MainApp",
+        "kind": 6,
+        "importPath": "csv_editor.csv_editor_duo",
+        "description": "csv_editor.csv_editor_duo",
+        "peekOfCode": "class MainApp:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"Newtron Solutions\")\n        self.root.geometry(\"650x350\")\n        #self.root.configure(bg='#00a5b5') \n        self.create_widgets()\n    def create_widgets(self):\n        file_frame2 = ttk.Frame(self.root)\n        file_frame2.pack(padx=10, pady=35)",
+        "detail": "csv_editor.csv_editor_duo",
+        "documentation": {}
+    },
+    {
         "label": "CSVEditorDuo",
         "kind": 6,
         "importPath": "csv_editor.csv_editor_duo",
         "description": "csv_editor.csv_editor_duo",
         "peekOfCode": "class CSVEditorDuo:\n    def __init__(self, root):\n        self.root = root\n        self.root.title(\"CSV Column Selector\")\n        self.root.geometry(\"600x300\")\n        self.file_path1 = tk.StringVar()\n        self.file_path2 = tk.StringVar()\n        self.df1 = None\n        self.df2 = None\n        self.column_vars1 = {}",
+        "detail": "csv_editor.csv_editor_duo",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "csv_editor.csv_editor_duo",
+        "description": "csv_editor.csv_editor_duo",
+        "peekOfCode": "def main():\n    root = tk.Tk()\n    app = MainApp(root)\n    root.mainloop()\nif __name__ == \"__main__\":\n    main()",
         "detail": "csv_editor.csv_editor_duo",
         "documentation": {}
     },
@@ -744,6 +795,33 @@
         "description": "csv_editor.csv_editor_single",
         "peekOfCode": "def main():\n    root = tk.Tk()\n    app = MainApp(root)\n    root.mainloop()\nif __name__ == \"__main__\":\n    main()",
         "detail": "csv_editor.csv_editor_single",
+        "documentation": {}
+    },
+    {
+        "label": "select_input_file",
+        "kind": 2,
+        "importPath": "csv_editor.csv_upper",
+        "description": "csv_editor.csv_upper",
+        "peekOfCode": "def select_input_file():\n    file_path = filedialog.askopenfilename()\n    return file_path\ndef select_output_file():\n    file_path = filedialog.asksaveasfilename(defaultextension=\".csv\")\n    return file_path\ndef process_csv(input_file_path, output_file_path):\n    with open(input_file_path, 'rb') as f:\n        rawdata = f.read()\n        result = chardet.detect(rawdata)",
+        "detail": "csv_editor.csv_upper",
+        "documentation": {}
+    },
+    {
+        "label": "select_output_file",
+        "kind": 2,
+        "importPath": "csv_editor.csv_upper",
+        "description": "csv_editor.csv_upper",
+        "peekOfCode": "def select_output_file():\n    file_path = filedialog.asksaveasfilename(defaultextension=\".csv\")\n    return file_path\ndef process_csv(input_file_path, output_file_path):\n    with open(input_file_path, 'rb') as f:\n        rawdata = f.read()\n        result = chardet.detect(rawdata)\n        encoding = result['encoding']\n    with open(input_file_path, 'r', encoding=encoding) as infile, open(output_file_path, 'w', newline='') as outfile:\n        reader = csv.reader(infile)",
+        "detail": "csv_editor.csv_upper",
+        "documentation": {}
+    },
+    {
+        "label": "process_csv",
+        "kind": 2,
+        "importPath": "csv_editor.csv_upper",
+        "description": "csv_editor.csv_upper",
+        "peekOfCode": "def process_csv(input_file_path, output_file_path):\n    with open(input_file_path, 'rb') as f:\n        rawdata = f.read()\n        result = chardet.detect(rawdata)\n        encoding = result['encoding']\n    with open(input_file_path, 'r', encoding=encoding) as infile, open(output_file_path, 'w', newline='') as outfile:\n        reader = csv.reader(infile)\n        writer = csv.writer(outfile)\n        for row in reader:\n            upper_row = [cell.upper() for cell in row]",
+        "detail": "csv_editor.csv_upper",
         "documentation": {}
     },
     {
